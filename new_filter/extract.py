@@ -21,7 +21,7 @@ with open(filename) as f:
 
 for k in content:
     for p in k:
-        if(float(p)>=0.5 and float(p)<1):
+        if(float(p)>=0.6 and float(p)<1):
             out = "\n" + str(content.index(k)) + "\t" + str(k.index(p)) + "\t" + str(float(p))
             outfile.write(out)
 """
