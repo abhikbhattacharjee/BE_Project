@@ -8,13 +8,12 @@ import pandas as pd
 import numpy as np
 import re
 import os
-
 from io import StringIO
 
-filename = "C:\\Users\\badhe\\Downloads\\mast_filtered.txt"
+filename = "mast_filtered.txt"
 #mat = pd.read_csv(filename, sep = "  ",skiprows = 2, usecols = range[1:135])
 
-outfile = open('mast_gr_0.5.txt',"w")
+outfile = open('mast_gr_0.6.txt',"w")
 
 with open(filename) as f:
     content = [x.strip().split()[1:] for x in f]
@@ -22,9 +21,23 @@ with open(filename) as f:
 for k in content:
     for p in k:
         if(float(p)>=0.6 and float(p)<1):
-            out = "\n" + str(content.index(k)) + "\t" + str(k.index(p)) + "\t" + str(float(p))
+            out = "\n" + str(content.index(k)+2) + "\t" + str(k.index(p)+1) + "\t" + str(float(p))
             outfile.write(out)
+
+record = "mast_gr_0.6.txt" 
+
+
 """
+with open(record) as r:
+    new_content = [x.strip().split()[0:] for x in r]
+
+length=len(new_content)
+motif = set()
+for i in range(length):
+    motif.add(new_content[i][0])
+print(motif)
+
+
 matrix = []
 i = 0
 for k in content[1:]:
