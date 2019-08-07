@@ -36,4 +36,5 @@ for dirpath, dirnames, files in os.walk('/home/abhik/Desktop/BE_Project/output_f
             
             test_group_final=test_group_final.append(test_group,sort=False)
 test_group_final=test_group_final.sort_index(axis=0)
+test_group_final=test_group_final.fillna(0)
 print(test_group_final)
