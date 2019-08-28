@@ -9,17 +9,17 @@ import pandas as pd
 
 df = pd.read_excel (r'/home/chinmay/be-project/notdiff_regulation (1).xlsx')
 
-df.drop(df.tail(1).index,inplace=True)
+"""df.drop(df.tail(1).index,inplace=True)"""
 print (df)
 
 diff_sums = df.select_dtypes(pd.np.number).sum().rename('total').to_frame()
 df = pd.read_excel (r'/home/chinmay/be-project/up_regulation (1).xlsx')
-df.drop(df.tail(1).index,inplace=True)
+"""df.drop(df.tail(1).index,inplace=True)"""
 print (df)
 up_sums = df.select_dtypes(pd.np.number).sum().rename('total').to_frame()
 
 df = pd.read_excel (r'/home/chinmay/be-project/down_regulation (1).xlsx')
-df.drop(df.tail(1).index,inplace=True)
+"""df.drop(df.tail(1).index,inplace=True)"""
 print (df)
 
 down_sums = df.select_dtypes(pd.np.number).sum().rename('total').to_frame()
