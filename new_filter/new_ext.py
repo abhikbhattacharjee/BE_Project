@@ -63,24 +63,26 @@ matrix_lines = ''
 lines = infile.readlines()
 
 itr = iter(lines)
-"""
+
 ###CODE to be checked for jaspar reducer
+"""awk -FS=" " 'NR==FNR {b[$0]; next} {for (x in b) if($0 ~ x) next;print $0}' out_gr_0.6.txt mast_filtered.txt
+code for extraction of unique row nos
+"""
 #print (lines)
 for i in df.index[2:,]:        
     ser = "MOTIF "+df['ID'][i]+" "+df['ALT'][i]
     ender="URL http://jaspar.genereg.net/matrix/"+df['ID'][i]
     print(nextline)
     flag = 1
-    print(ser)
     while(flag):
-        nextline = next(itr)
-        if re.search(ser, nextline) and flag==1:            
+        if ser in nextline and flag==1:            
             while(not re.search(ender,nextline)):
                 out = nextline
                 outfile3.write(out)
                 print(nextline)
                 nextline = next(itr)
                 flag = 0
-    next(itr)
+        nextline = next(itr)        
     outfile3.write(ender)
-"""    
+    outfile3.write("\n")
+    outfile3.write("\n")    
