@@ -10,7 +10,7 @@ import os
 import pandas as pd
 #import sys
 
-test_group_final = pd.DataFrame()
+test_group_final1 = pd.DataFrame()
 
 for dirpath, dirnames, files in os.walk('Output_fimo/Up_regulated_fimo'): #Output_fimo folder
     for file_name in files:
@@ -28,10 +28,12 @@ for dirpath, dirnames, files in os.walk('Output_fimo/Up_regulated_fimo'): #Outpu
             test_group = test_group.drop(['motif_alt_id'],axis = 1)
             test_group = test_group.T
             
-            test_group_final=test_group_final.append(test_group,sort=False)
-test_group_final=test_group_final.sort_index(axis=0)
-test_group_final=test_group_final.fillna(0)
-test_group_final.to_excel("Excel/Up_regulation.xlsx",sheet_name="Up_regulation")
+            test_group_final1=test_group_final1.append(test_group,sort=False)
+test_group_final1=test_group_final1.sort_index(axis=0)
+test_group_final1=test_group_final1.fillna(0)
+test_group_final1.to_excel("Excel/Up_regulation.xlsx",sheet_name="Up_regulation")
+
+test_group_final2 = pd.DataFrame()
 
 for dirpath, dirnames, files in os.walk('Output_fimo/Down_regulated_fimo'): #Output_fimo folder
     for file_name in files:
@@ -49,10 +51,12 @@ for dirpath, dirnames, files in os.walk('Output_fimo/Down_regulated_fimo'): #Out
             test_group = test_group.drop(['motif_alt_id'],axis = 1)
             test_group = test_group.T
             
-            test_group_final=test_group_final.append(test_group,sort=False)
-test_group_final=test_group_final.sort_index(axis=0)
-test_group_final=test_group_final.fillna(0)
-test_group_final.to_excel("Excel/Down_regulation.xlsx",sheet_name="Down_regulation")
+            test_group_final2=test_group_final.append(test_group,sort=False)
+test_group_final2=test_group_final2.sort_index(axis=0)
+test_group_final2=test_group_final2.fillna(0)
+test_group_final2.to_excel("Excel/Down_regulation.xlsx",sheet_name="Down_regulation")
+
+test_group_final3 = pd.DataFrame()
 
 for dirpath, dirnames, files in os.walk('Output_fimo/Up_regulated_fimo'): #Output_fimo folder
     for file_name in files:
@@ -70,7 +74,7 @@ for dirpath, dirnames, files in os.walk('Output_fimo/Up_regulated_fimo'): #Outpu
             test_group = test_group.drop(['motif_alt_id'],axis = 1)
             test_group = test_group.T
             
-            test_group_final=test_group_final.append(test_group,sort=False)
-test_group_final=test_group_final.sort_index(axis=0)
-test_group_final=test_group_final.fillna(0)
-test_group_final.to_excel("Excel/Notdiff_regulation.xlsx",sheet_name="Notdiff_regulation")
+            test_group_final3=test_group_final3.append(test_group,sort=False)
+test_group_final3=test_group_final3.sort_index(axis=0)
+test_group_final3=test_group_final3.fillna(0)
+test_group_final3.to_excel("Excel/Notdiff_regulation.xlsx",sheet_name="Notdiff_regulation")
