@@ -1,5 +1,0 @@
-##gff-version 3
-dm6_ct_UserTrack_3545_18	fimo	nucleotide_motif	448	457	43.5	+	.	Name=MA0205.1_dm6_ct_UserTrack_3545_18+;Alias=Trl;ID=MA0205.1-Trl-1-dm6_ct_UserTrack_3545_18;pvalue=4.41e-05;qvalue= 0.0274;sequence=GTTCTCTCTC;
-dm6_ct_UserTrack_3545_18	fimo	nucleotide_motif	130	139	41.4	+	.	Name=MA0205.1_dm6_ct_UserTrack_3545_18+;Alias=Trl;ID=MA0205.1-Trl-2-dm6_ct_UserTrack_3545_18;pvalue=7.25e-05;qvalue= 0.0274;sequence=TCACTCTCTT;
-dm6_ct_UserTrack_3545_18	fimo	nucleotide_motif	450	459	40.7	+	.	Name=MA0205.1_dm6_ct_UserTrack_3545_18+;Alias=Trl;ID=MA0205.1-Trl-3-dm6_ct_UserTrack_3545_18;pvalue=8.49e-05;qvalue= 0.0274;sequence=TCTCTCTCTA;
-dm6_ct_UserTrack_3545_18	fimo	nucleotide_motif	472	482	42.2	+	.	Name=MA0454.1_dm6_ct_UserTrack_3545_18+;Alias=odd;ID=MA0454.1-odd-1-dm6_ct_UserTrack_3545_18;pvalue=6e-05;qvalue= 0.0577;sequence=CCCTGTAGCAG;

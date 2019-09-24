@@ -1,8 +1,0 @@
-##gff-version 3
-dm6_ct_UserTrack_3545_18	fimo	nucleotide_motif	173	184	42.8	+	.	Name=MA0022.1_dm6_ct_UserTrack_3545_18+;Alias=dl;ID=MA0022.1-dl-1-dm6_ct_UserTrack_3545_18;pvalue=5.29e-05;qvalue= 0.0545;sequence=GGGGTTTTTATA;
-dm6_ct_UserTrack_3545_18	fimo	nucleotide_motif	214	222	40.7	-	.	Name=MA0242.1_dm6_ct_UserTrack_3545_18-;Alias=Bgb::run;ID=MA0242.1-Bgb::run-1-dm6_ct_UserTrack_3545_18;pvalue=8.41e-05;qvalue= 0.0893;sequence=CAACCACAA;
-dm6_ct_UserTrack_3545_18	fimo	nucleotide_motif	487	496	45.4	+	.	Name=MA0447.1_dm6_ct_UserTrack_3545_18+;Alias=gt;ID=MA0447.1-gt-1-dm6_ct_UserTrack_3545_18;pvalue=2.85e-05;qvalue= 0.0151;sequence=GTTATGTAAT;
-dm6_ct_UserTrack_3545_18	fimo	nucleotide_motif	487	496	45.4	-	.	Name=MA0447.1_dm6_ct_UserTrack_3545_18-;Alias=gt;ID=MA0447.1-gt-2-dm6_ct_UserTrack_3545_18;pvalue=2.85e-05;qvalue= 0.0151;sequence=ATTACATAAC;
-dm6_ct_UserTrack_3545_18	fimo	nucleotide_motif	437	445	 47	-	.	Name=MA0460.1_dm6_ct_UserTrack_3545_18-;Alias=ttk;ID=MA0460.1-ttk-1-dm6_ct_UserTrack_3545_18;pvalue=1.98e-05;qvalue= 0.0204;sequence=CAGGATAAC;
-dm6_ct_UserTrack_3545_18	fimo	nucleotide_motif	537	547	42.2	-	.	Name=MA0536.1_dm6_ct_UserTrack_3545_18-;Alias=pnr;ID=MA0536.1-pnr-1-dm6_ct_UserTrack_3545_18;pvalue=5.99e-05;qvalue= 0.0629;sequence=AATCGATAACT;
-dm6_ct_UserTrack_3545_18	fimo	nucleotide_motif	518	530	40.7	-	.	Name=MA0086.2_dm6_ct_UserTrack_3545_18-;Alias=sna;ID=MA0086.2-sna-1-dm6_ct_UserTrack_3545_18;pvalue=8.45e-05;qvalue= 0.0901;sequence=TGAACAAGTGTCA;
