@@ -1,0 +1,15 @@
+motif_id	motif_alt_id	sequence_name	start	stop	strand	score	p-value	q-value	matched_sequence
+MA0529.1	BEAF-32	dm6_ct_UserTrack_3545_3	259	273	-	13.2727	2.15e-05	0.0246	TCGAAACTGTCGATA
+MA0459.1	tll	dm6_ct_UserTrack_3545_3	17	26	+	12.9663	2.2e-05	0.0252	GAAAGTCAAT
+MA0237.2	pan	dm6_ct_UserTrack_3545_3	403	416	+	12.1707	3.78e-05	0.0291	TCGTCTCTTTGTGT
+MA0010.1	br	dm6_ct_UserTrack_3545_3	79	92	+	11.7117	5.03e-05	0.0524	ATTATAGACAATTT
+MA0237.2	pan	dm6_ct_UserTrack_3545_3	295	308	+	11.4756	5.11e-05	0.0291	GCGTATTCTTTTAT
+MA0094.2	Ubx	dm6_ct_UserTrack_3545_3	7	14	+	11.9109	5.88e-05	0.0618	CTTAATTA
+MA0049.1	hb	dm6_ct_UserTrack_3545_3	555	564	+	11.3465	5.9e-05	0.0638	GAATAAAAAG
+MA0534.1	EcR::usp	dm6_ct_UserTrack_3545_3	172	186	-	10.4079	8.44e-05	0.0946	AAAATCATTGAATTA
+MA0086.2	sna	dm6_ct_UserTrack_3545_3	227	239	+	10.1382	9.36e-05	0.11	CTTACAGGTGAAT
+MA0529.1	BEAF-32	dm6_ct_UserTrack_3545_3	485	499	+	10.7091	9.52e-05	0.0546	TTAGAAAAATCGAAA
+
+# FIMO (Find Individual Motif Occurrences): Version 5.0.5 compiled on Jul 31 2019 at 10:58:47
+# The format of this file is described at http://meme-suite.org//doc/fimo-output-format.html.
+# fimo -o Output_fimo/Notdiff_regulated_fimo/fimo99 Latest_JASPAR.txt FASTA/Notdiff_Regulated/99.txt

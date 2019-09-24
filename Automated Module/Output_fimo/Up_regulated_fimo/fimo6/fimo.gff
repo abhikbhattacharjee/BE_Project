@@ -1,0 +1,11 @@
+##gff-version 3
+dm6_ct_UserTrack_3545_1	fimo	nucleotide_motif	604	614	41.1	+	.	Name=MA222222.2_dm6_ct_UserTrack_3545_1+;Alias=denovo_ubx;ID=MA222222.2-denovo_ubx-1-dm6_ct_UserTrack_3545_1;pvalue=7.72e-05;qvalue= 0.112;sequence=TGTTTTATGAT;
+dm6_ct_UserTrack_3545_1	fimo	nucleotide_motif	113	122	47.5	-	.	Name=MA0015.1_dm6_ct_UserTrack_3545_1-;Alias=Cf2;ID=MA0015.1-Cf2-1-dm6_ct_UserTrack_3545_1;pvalue=1.77e-05;qvalue= 0.0286;sequence=ATATATGTAT;
+dm6_ct_UserTrack_3545_1	fimo	nucleotide_motif	10	19	43.5	-	.	Name=MA0049.1_dm6_ct_UserTrack_3545_1-;Alias=hb;ID=MA0049.1-hb-1-dm6_ct_UserTrack_3545_1;pvalue=4.46e-05;qvalue= 0.0682;sequence=CAAAAAAAAA;
+dm6_ct_UserTrack_3545_1	fimo	nucleotide_motif	725	733	40.7	-	.	Name=MA0242.1_dm6_ct_UserTrack_3545_1-;Alias=Bgb::run;ID=MA0242.1-Bgb::run-1-dm6_ct_UserTrack_3545_1;pvalue=8.41e-05;qvalue= 0.139;sequence=AAACCGCTA;
+dm6_ct_UserTrack_3545_1	fimo	nucleotide_motif	599	609	41.4	+	.	Name=MA0445.1_dm6_ct_UserTrack_3545_1+;Alias=D;ID=MA0445.1-D-1-dm6_ct_UserTrack_3545_1;pvalue=7.16e-05;qvalue= 0.109;sequence=CTCTTTGTTTT;
+dm6_ct_UserTrack_3545_1	fimo	nucleotide_motif	68	78	44.6	-	.	Name=MA0446.1_dm6_ct_UserTrack_3545_1-;Alias=fkh;ID=MA0446.1-fkh-1-dm6_ct_UserTrack_3545_1;pvalue=3.43e-05;qvalue= 0.0522;sequence=TGTTTATTTAC;
+dm6_ct_UserTrack_3545_1	fimo	nucleotide_motif	181	192	47.6	+	.	Name=MA0197.2_dm6_ct_UserTrack_3545_1+;Alias=nub;ID=MA0197.2-nub-1-dm6_ct_UserTrack_3545_1;pvalue=1.74e-05;qvalue= 0.0141;sequence=TATTCAAATGAA;
+dm6_ct_UserTrack_3545_1	fimo	nucleotide_motif	456	467	46.8	-	.	Name=MA0197.2_dm6_ct_UserTrack_3545_1-;Alias=nub;ID=MA0197.2-nub-2-dm6_ct_UserTrack_3545_1;pvalue=2.09e-05;qvalue= 0.0141;sequence=TATGTAAAAGAT;
+dm6_ct_UserTrack_3545_1	fimo	nucleotide_motif	65	76	40.9	+	.	Name=MA0197.2_dm6_ct_UserTrack_3545_1+;Alias=nub;ID=MA0197.2-nub-3-dm6_ct_UserTrack_3545_1;pvalue=8.19e-05;qvalue= 0.0368;sequence=AATGTAAATAAA;
+dm6_ct_UserTrack_3545_1	fimo	nucleotide_motif	19	33	41.8	+	.	Name=MA0534.1_dm6_ct_UserTrack_3545_1+;Alias=EcR::usp;ID=MA0534.1-EcR::usp-1-dm6_ct_UserTrack_3545_1;pvalue=6.62e-05;qvalue= 0.102;sequence=GAGTTAAATGTATTT;

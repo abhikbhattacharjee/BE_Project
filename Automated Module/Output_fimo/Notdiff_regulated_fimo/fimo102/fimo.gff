@@ -1,0 +1,11 @@
+##gff-version 3
+dm6_ct_UserTrack_3545_6	fimo	nucleotide_motif	458	468	44.9	+	.	Name=MA222222.2_dm6_ct_UserTrack_3545_6+;Alias=denovo_ubx;ID=MA222222.2-denovo_ubx-1-dm6_ct_UserTrack_3545_6;pvalue=3.26e-05;qvalue= 0.0338;sequence=TGATTTATGCT;
+dm6_ct_UserTrack_3545_6	fimo	nucleotide_motif	313	326	50.7	+	.	Name=MA0010.1_dm6_ct_UserTrack_3545_6+;Alias=br;ID=MA0010.1-br-1-dm6_ct_UserTrack_3545_6;pvalue=8.53e-06;qvalue= 0.0091;sequence=GAAAAAGACAAATG;
+dm6_ct_UserTrack_3545_6	fimo	nucleotide_motif	33	43	45.2	-	.	Name=MA0013.1_dm6_ct_UserTrack_3545_6-;Alias=br(var.4);ID=MA0013.1-br(var.4)-1-dm6_ct_UserTrack_3545_6;pvalue=3.03e-05;qvalue= 0.0326;sequence=TAGTAAATTAT;
+dm6_ct_UserTrack_3545_6	fimo	nucleotide_motif	341	350	41.4	-	.	Name=MA0205.1_dm6_ct_UserTrack_3545_6-;Alias=Trl;ID=MA0205.1-Trl-1-dm6_ct_UserTrack_3545_6;pvalue=7.25e-05;qvalue= 0.0769;sequence=TCACTCTCTT;
+dm6_ct_UserTrack_3545_6	fimo	nucleotide_motif	265	274	40.5	-	.	Name=MA0443.1_dm6_ct_UserTrack_3545_6-;Alias=btd;ID=MA0443.1-btd-1-dm6_ct_UserTrack_3545_6;pvalue=8.81e-05;qvalue= 0.0941;sequence=AATGGGCGTT;
+dm6_ct_UserTrack_3545_6	fimo	nucleotide_motif	269	279	42.7	+	.	Name=MA0445.1_dm6_ct_UserTrack_3545_6+;Alias=D;ID=MA0445.1-D-1-dm6_ct_UserTrack_3545_6;pvalue=5.36e-05;qvalue= 0.0577;sequence=CCCATTGTTCG;
+dm6_ct_UserTrack_3545_6	fimo	nucleotide_motif	68	78	43.4	-	.	Name=MA0454.1_dm6_ct_UserTrack_3545_6-;Alias=odd;ID=MA0454.1-odd-1-dm6_ct_UserTrack_3545_6;pvalue=4.53e-05;qvalue= 0.0472;sequence=AATAGTAGCAG;
+dm6_ct_UserTrack_3545_6	fimo	nucleotide_motif	224	233	44.2	+	.	Name=MA0247.2_dm6_ct_UserTrack_3545_6+;Alias=tin;ID=MA0247.2-tin-1-dm6_ct_UserTrack_3545_6;pvalue=3.82e-05;qvalue= 0.0409;sequence=TTCCAAGTGG;
+dm6_ct_UserTrack_3545_6	fimo	nucleotide_motif	217	224	40.4	-	.	Name=MA0917.1_dm6_ct_UserTrack_3545_6-;Alias=gcm2;ID=MA0917.1-gcm2-1-dm6_ct_UserTrack_3545_6;pvalue=9.13e-05;qvalue= 0.0973;sequence=ATGCTGGT;
+dm6_ct_UserTrack_3545_6	fimo	nucleotide_motif	233	245	44.2	+	.	Name=MA0086.2_dm6_ct_UserTrack_3545_6+;Alias=sna;ID=MA0086.2-sna-1-dm6_ct_UserTrack_3545_6;pvalue=3.76e-05;qvalue= 0.0396;sequence=GCGACAAGTGCTG;

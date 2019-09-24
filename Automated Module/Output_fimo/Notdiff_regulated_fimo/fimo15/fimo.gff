@@ -1,0 +1,11 @@
+##gff-version 3
+dm6_ct_UserTrack_3545_13	fimo	nucleotide_motif	239	249	41.4	-	.	Name=MA222222.2_dm6_ct_UserTrack_3545_13-;Alias=denovo_ubx;ID=MA222222.2-denovo_ubx-1-dm6_ct_UserTrack_3545_13;pvalue=7.16e-05;qvalue= 0.0766;sequence=TTATTTATAGG;
+dm6_ct_UserTrack_3545_13	fimo	nucleotide_motif	163	176	62.2	+	.	Name=MA0010.1_dm6_ct_UserTrack_3545_13+;Alias=br;ID=MA0010.1-br-1-dm6_ct_UserTrack_3545_13;pvalue=5.95e-07;qvalue= 0.00063;sequence=ATAATAAACAAAAG;
+dm6_ct_UserTrack_3545_13	fimo	nucleotide_motif	164	174	54.5	+	.	Name=MA0013.1_dm6_ct_UserTrack_3545_13+;Alias=br(var.4);ID=MA0013.1-br(var.4)-1-dm6_ct_UserTrack_3545_13;pvalue=3.54e-06;qvalue= 0.00376;sequence=TAATAAACAAA;
+dm6_ct_UserTrack_3545_13	fimo	nucleotide_motif	53	62	49.9	-	.	Name=MA0205.1_dm6_ct_UserTrack_3545_13-;Alias=Trl;ID=MA0205.1-Trl-1-dm6_ct_UserTrack_3545_13;pvalue=1.02e-05;qvalue= 0.00566;sequence=TTGCTCTCCC;
+dm6_ct_UserTrack_3545_13	fimo	nucleotide_motif	102	111	49.7	-	.	Name=MA0205.1_dm6_ct_UserTrack_3545_13-;Alias=Trl;ID=MA0205.1-Trl-2-dm6_ct_UserTrack_3545_13;pvalue=1.08e-05;qvalue= 0.00566;sequence=TCGCTCTCCC;
+dm6_ct_UserTrack_3545_13	fimo	nucleotide_motif	401	410	40.2	-	.	Name=MA0205.1_dm6_ct_UserTrack_3545_13-;Alias=Trl;ID=MA0205.1-Trl-3-dm6_ct_UserTrack_3545_13;pvalue=9.58e-05;qvalue= 0.0335;sequence=CTGCGCTCTT;
+dm6_ct_UserTrack_3545_13	fimo	nucleotide_motif	41	50	41.4	+	.	Name=MA0443.1_dm6_ct_UserTrack_3545_13+;Alias=btd;ID=MA0443.1-btd-1-dm6_ct_UserTrack_3545_13;pvalue=7.23e-05;qvalue= 0.0765;sequence=AGGAGGCGTA;
+dm6_ct_UserTrack_3545_13	fimo	nucleotide_motif	434	445	44.8	-	.	Name=MA0456.1_dm6_ct_UserTrack_3545_13-;Alias=opa;ID=MA0456.1-opa-1-dm6_ct_UserTrack_3545_13;pvalue=3.34e-05;qvalue= 0.0349;sequence=GACCCCCTTGGG;
+dm6_ct_UserTrack_3545_13	fimo	nucleotide_motif	534	548	41.1	+	.	Name=MA0534.1_dm6_ct_UserTrack_3545_13+;Alias=EcR::usp;ID=MA0534.1-EcR::usp-1-dm6_ct_UserTrack_3545_13;pvalue=7.68e-05;qvalue= 0.0811;sequence=GAAATTAATGCACTT;
+dm6_ct_UserTrack_3545_13	fimo	nucleotide_motif	292	304	45.9	-	.	Name=MA0086.2_dm6_ct_UserTrack_3545_13-;Alias=sna;ID=MA0086.2-sna-1-dm6_ct_UserTrack_3545_13;pvalue=2.58e-05;qvalue= 0.0274;sequence=CGAACAAGTGCAC;

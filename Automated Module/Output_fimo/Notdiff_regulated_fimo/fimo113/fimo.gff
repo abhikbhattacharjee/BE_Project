@@ -1,0 +1,11 @@
+##gff-version 3
+dm6_ct_UserTrack_3545_17	fimo	nucleotide_motif	556	566	46.7	+	.	Name=MA222222.2_dm6_ct_UserTrack_3545_17+;Alias=denovo_ubx;ID=MA222222.2-denovo_ubx-1-dm6_ct_UserTrack_3545_17;pvalue=2.14e-05;qvalue= 0.0315;sequence=TGATTTATTAG;
+dm6_ct_UserTrack_3545_17	fimo	nucleotide_motif	104	112	49.7	-	.	Name=MA11111.1_dm6_ct_UserTrack_3545_17-;Alias=mes2;ID=MA11111.1-mes2-1-dm6_ct_UserTrack_3545_17;pvalue=1.06e-05;qvalue= 0.0156;sequence=TGGCCCAAA;
+dm6_ct_UserTrack_3545_17	fimo	nucleotide_motif	702	712	40.7	+	.	Name=MA0012.1_dm6_ct_UserTrack_3545_17+;Alias=br(var.3);ID=MA0012.1-br(var.3)-1-dm6_ct_UserTrack_3545_17;pvalue=8.45e-05;qvalue= 0.125;sequence=TAAACTATAGC;
+dm6_ct_UserTrack_3545_17	fimo	nucleotide_motif	96	104	43.5	-	.	Name=MA0126.1_dm6_ct_UserTrack_3545_17-;Alias=ovo;ID=MA0126.1-ovo-1-dm6_ct_UserTrack_3545_17;pvalue=4.47e-05;qvalue= 0.0651;sequence=AGTAACAGC;
+dm6_ct_UserTrack_3545_17	fimo	nucleotide_motif	254	263	 48	+	.	Name=MA0205.1_dm6_ct_UserTrack_3545_17+;Alias=Trl;ID=MA0205.1-Trl-1-dm6_ct_UserTrack_3545_17;pvalue=1.57e-05;qvalue= 0.0229;sequence=TTGCGCTCTC;
+dm6_ct_UserTrack_3545_17	fimo	nucleotide_motif	380	389	43.3	-	.	Name=MA0205.1_dm6_ct_UserTrack_3545_17-;Alias=Trl;ID=MA0205.1-Trl-2-dm6_ct_UserTrack_3545_17;pvalue=4.67e-05;qvalue= 0.0341;sequence=CTTCTCTCCC;
+dm6_ct_UserTrack_3545_17	fimo	nucleotide_motif	373	382	50.2	+	.	Name=MA0443.1_dm6_ct_UserTrack_3545_17+;Alias=btd;ID=MA0443.1-btd-1-dm6_ct_UserTrack_3545_17;pvalue=9.52e-06;qvalue= 0.014;sequence=GAGGGGCGGG;
+dm6_ct_UserTrack_3545_17	fimo	nucleotide_motif	57	67	41.2	+	.	Name=MA0445.1_dm6_ct_UserTrack_3545_17+;Alias=D;ID=MA0445.1-D-1-dm6_ct_UserTrack_3545_17;pvalue=7.65e-05;qvalue= 0.112;sequence=GTTATTGTTGT;
+dm6_ct_UserTrack_3545_17	fimo	nucleotide_motif	655	669	 42	-	.	Name=MA0534.1_dm6_ct_UserTrack_3545_17-;Alias=EcR::usp;ID=MA0534.1-EcR::usp-1-dm6_ct_UserTrack_3545_17;pvalue=6.27e-05;qvalue= 0.0912;sequence=CACTTAAATGCCATT;
+dm6_ct_UserTrack_3545_17	fimo	nucleotide_motif	661	670	41.4	+	.	Name=MA0247.2_dm6_ct_UserTrack_3545_17+;Alias=tin;ID=MA0247.2-tin-1-dm6_ct_UserTrack_3545_17;pvalue=7.18e-05;qvalue= 0.106;sequence=ATTTAAGTGG;

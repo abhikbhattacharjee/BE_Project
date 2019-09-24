@@ -1,0 +1,16 @@
+motif_id	motif_alt_id	sequence_name	start	stop	strand	score	p-value	q-value	matched_sequence
+MA0456.1	opa	dm6_ct_UserTrack_3545_27	459	470	-	17.0612	1.06e-06	0.00112	GACTCCCCGCTG
+MA0015.1	Cf2	dm6_ct_UserTrack_3545_27	199	208	-	13.5	7.98e-06	0.00843	GTATATGTAG
+MA0205.1	Trl	dm6_ct_UserTrack_3545_27	306	315	+	12.1829	8.54e-06	0.0091	CCTCTCTCTC
+MA0917.1	gcm2	dm6_ct_UserTrack_3545_27	327	334	-	13.7049	1.21e-05	0.0128	ATGCGGGT
+MA0456.1	opa	dm6_ct_UserTrack_3545_27	538	549	+	12.6429	1.78e-05	0.00943	TCCCCCCTGTTG
+MA0049.1	hb	dm6_ct_UserTrack_3545_27	281	290	+	12.2376	1.92e-05	0.0201	CCAAAAAAAA
+MA0533.1	su(Hw)	dm6_ct_UserTrack_3545_27	78	98	-	11.5714	2.31e-05	0.0243	GCCAAAATGTACACAACAAAT
+MA0049.1	hb	dm6_ct_UserTrack_3545_27	282	291	+	11.5347	4.46e-05	0.0233	CAAAAAAAAA
+MA0456.1	opa	dm6_ct_UserTrack_3545_27	366	377	+	10.0408	6.15e-05	0.0218	GCCGCCCTTCGG
+MA0205.1	Trl	dm6_ct_UserTrack_3545_27	304	313	+	10.5244	7.51e-05	0.0302	CCCCTCTCTC
+MA0205.1	Trl	dm6_ct_UserTrack_3545_27	308	317	+	10.439	8.49e-05	0.0302	TCTCTCTCTA
+
+# FIMO (Find Individual Motif Occurrences): Version 5.0.5 compiled on Jul 31 2019 at 10:58:47
+# The format of this file is described at http://meme-suite.org//doc/fimo-output-format.html.
+# fimo -o Output_fimo/Notdiff_regulated_fimo/fimo123 Latest_JASPAR.txt FASTA/Notdiff_Regulated/123.txt

@@ -1,0 +1,11 @@
+##gff-version 3
+dm6_ct_UserTrack_3545_49	fimo	nucleotide_motif	227	237	53.4	-	.	Name=MA222222.2_dm6_ct_UserTrack_3545_49-;Alias=denovo_ubx;ID=MA222222.2-denovo_ubx-1-dm6_ct_UserTrack_3545_49;pvalue=4.55e-06;qvalue= 0.00314;sequence=TAATTTATTGC;
+dm6_ct_UserTrack_3545_49	fimo	nucleotide_motif	246	259	42.1	-	.	Name=MA0010.1_dm6_ct_UserTrack_3545_49-;Alias=br;ID=MA0010.1-br-1-dm6_ct_UserTrack_3545_49;pvalue=6.14e-05;qvalue= 0.0206;sequence=ATAATTAAAAAAAT;
+dm6_ct_UserTrack_3545_49	fimo	nucleotide_motif	86	99	 42	-	.	Name=MA0010.1_dm6_ct_UserTrack_3545_49-;Alias=br;ID=MA0010.1-br-2-dm6_ct_UserTrack_3545_49;pvalue=6.25e-05;qvalue= 0.0206;sequence=GTAAATAAAAAAAG;
+dm6_ct_UserTrack_3545_49	fimo	nucleotide_motif	65	75	50.7	-	.	Name=MA0012.1_dm6_ct_UserTrack_3545_49-;Alias=br(var.3);ID=MA0012.1-br(var.3)-1-dm6_ct_UserTrack_3545_49;pvalue=8.5e-06;qvalue= 0.00551;sequence=AAAACTAAACG;
+dm6_ct_UserTrack_3545_49	fimo	nucleotide_motif	9	18	42.3	-	.	Name=MA0049.1_dm6_ct_UserTrack_3545_49-;Alias=hb;ID=MA0049.1-hb-1-dm6_ct_UserTrack_3545_49;pvalue=5.9e-05;qvalue= 0.0375;sequence=GAATAAAAAG;
+dm6_ct_UserTrack_3545_49	fimo	nucleotide_motif	48	57	40.7	+	.	Name=MA0049.1_dm6_ct_UserTrack_3545_49+;Alias=hb;ID=MA0049.1-hb-2-dm6_ct_UserTrack_3545_49;pvalue=8.58e-05;qvalue= 0.0375;sequence=GGAAAAAAAA;
+dm6_ct_UserTrack_3545_49	fimo	nucleotide_motif	435	443	44.1	+	.	Name=MA0242.1_dm6_ct_UserTrack_3545_49+;Alias=Bgb::run;ID=MA0242.1-Bgb::run-1-dm6_ct_UserTrack_3545_49;pvalue=3.86e-05;qvalue= 0.0376;sequence=AAACCACAG;
+dm6_ct_UserTrack_3545_49	fimo	nucleotide_motif	251	258	44.9	+	.	Name=MA0094.2_dm6_ct_UserTrack_3545_49+;Alias=Ubx;ID=MA0094.2-Ubx-1-dm6_ct_UserTrack_3545_49;pvalue=3.23e-05;qvalue= 0.0227;sequence=TTTAATTA;
+dm6_ct_UserTrack_3545_49	fimo	nucleotide_motif	91	102	40.9	-	.	Name=MA0197.2_dm6_ct_UserTrack_3545_49-;Alias=nub;ID=MA0197.2-nub-1-dm6_ct_UserTrack_3545_49;pvalue=8.19e-05;qvalue= 0.0554;sequence=AATGTAAATAAA;
+dm6_ct_UserTrack_3545_49	fimo	nucleotide_motif	80	88	 48	-	.	Name=MA0460.1_dm6_ct_UserTrack_3545_49-;Alias=ttk;ID=MA0460.1-ttk-1-dm6_ct_UserTrack_3545_49;pvalue=1.58e-05;qvalue= 0.0136;sequence=AAGGATAAC;

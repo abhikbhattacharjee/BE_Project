@@ -1,0 +1,3 @@
+##gff-version 3
+dm6_ct_UserTrack_3545_32	fimo	nucleotide_motif	31	45	42.3	+	.	Name=MA0532.1_dm6_ct_UserTrack_3545_32+;Alias=Stat92E;ID=MA0532.1-Stat92E-1-dm6_ct_UserTrack_3545_32;pvalue=5.9e-05;qvalue= 0.0614;sequence=CTCGGTTCGTAGAAA;
+dm6_ct_UserTrack_3545_32	fimo	nucleotide_motif	108	121	53.8	+	.	Name=MA0237.2_dm6_ct_UserTrack_3545_32+;Alias=pan;ID=MA0237.2-pan-1-dm6_ct_UserTrack_3545_32;pvalue=4.2e-06;qvalue= 0.00446;sequence=GCGGCCTGTTTGTT;

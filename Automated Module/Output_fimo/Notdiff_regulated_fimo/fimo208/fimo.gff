@@ -1,0 +1,12 @@
+##gff-version 3
+dm6_ct_UserTrack_3545_20	fimo	nucleotide_motif	40	47	42.7	-	.	Name=MA0011.1_dm6_ct_UserTrack_3545_20-;Alias=br(var.2);ID=MA0011.1-br(var.2)-1-dm6_ct_UserTrack_3545_20;pvalue=5.3e-05;qvalue= 0.0482;sequence=TTCTATTT;
+dm6_ct_UserTrack_3545_20	fimo	nucleotide_motif	282	291	43.5	+	.	Name=MA0205.1_dm6_ct_UserTrack_3545_20+;Alias=Trl;ID=MA0205.1-Trl-1-dm6_ct_UserTrack_3545_20;pvalue=4.41e-05;qvalue= 0.0216;sequence=TAGCTCTCTC;
+dm6_ct_UserTrack_3545_20	fimo	nucleotide_motif	290	299	43.1	+	.	Name=MA0205.1_dm6_ct_UserTrack_3545_20+;Alias=Trl;ID=MA0205.1-Trl-2-dm6_ct_UserTrack_3545_20;pvalue=4.91e-05;qvalue= 0.0216;sequence=TCCCTCTCTC;
+dm6_ct_UserTrack_3545_20	fimo	nucleotide_motif	292	301	41.7	+	.	Name=MA0205.1_dm6_ct_UserTrack_3545_20+;Alias=Trl;ID=MA0205.1-Trl-3-dm6_ct_UserTrack_3545_20;pvalue=6.75e-05;qvalue= 0.0216;sequence=CCTCTCTCGC;
+dm6_ct_UserTrack_3545_20	fimo	nucleotide_motif	467	478	53.1	-	.	Name=MA0249.1_dm6_ct_UserTrack_3545_20-;Alias=twi;ID=MA0249.1-twi-1-dm6_ct_UserTrack_3545_20;pvalue=4.93e-06;qvalue= 0.00465;sequence=TGCCATATGTTG;
+dm6_ct_UserTrack_3545_20	fimo	nucleotide_motif	361	371	42.1	+	.	Name=MA0446.1_dm6_ct_UserTrack_3545_20+;Alias=fkh;ID=MA0446.1-fkh-1-dm6_ct_UserTrack_3545_20;pvalue=6.15e-05;qvalue= 0.059;sequence=TATTTATTTAA;
+dm6_ct_UserTrack_3545_20	fimo	nucleotide_motif	365	376	40.7	+	.	Name=MA0197.2_dm6_ct_UserTrack_3545_20+;Alias=nub;ID=MA0197.2-nub-1-dm6_ct_UserTrack_3545_20;pvalue=8.45e-05;qvalue= 0.0765;sequence=TATTTAAATGTT;
+dm6_ct_UserTrack_3545_20	fimo	nucleotide_motif	439	453	42.3	-	.	Name=MA0531.1_dm6_ct_UserTrack_3545_20-;Alias=CTCF;ID=MA0531.1-CTCF-1-dm6_ct_UserTrack_3545_20;pvalue=5.86e-05;qvalue= 0.0564;sequence=TCGGAAGATGGAGCG;
+dm6_ct_UserTrack_3545_20	fimo	nucleotide_motif	322	335	44.8	-	.	Name=MA0237.2_dm6_ct_UserTrack_3545_20-;Alias=pan;ID=MA0237.2-pan-1-dm6_ct_UserTrack_3545_20;pvalue=3.31e-05;qvalue= 0.0226;sequence=GCGTTGCGTTTTAT;
+dm6_ct_UserTrack_3545_20	fimo	nucleotide_motif	186	199	43.1	-	.	Name=MA0237.2_dm6_ct_UserTrack_3545_20-;Alias=pan;ID=MA0237.2-pan-2-dm6_ct_UserTrack_3545_20;pvalue=4.88e-05;qvalue= 0.0226;sequence=TCGTTTTCTTTTTT;
+dm6_ct_UserTrack_3545_20	fimo	nucleotide_motif	255	268	40.2	+	.	Name=MA0237.2_dm6_ct_UserTrack_3545_20+;Alias=pan;ID=MA0237.2-pan-3-dm6_ct_UserTrack_3545_20;pvalue=9.51e-05;qvalue= 0.0293;sequence=GCGCCAATTTGTAT;

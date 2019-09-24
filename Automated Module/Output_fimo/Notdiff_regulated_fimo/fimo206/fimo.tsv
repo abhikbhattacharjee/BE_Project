@@ -1,0 +1,24 @@
+motif_id	motif_alt_id	sequence_name	start	stop	strand	score	p-value	q-value	matched_sequence
+MA0205.1	Trl	dm6_ct_UserTrack_3545_18	297	306	-	12.5976	5.03e-06	0.00439	TCTCTCTCTC
+MA0205.1	Trl	dm6_ct_UserTrack_3545_18	299	308	-	12.1829	8.54e-06	0.00439	CCTCTCTCTC
+MA0205.1	Trl	dm6_ct_UserTrack_3545_18	478	487	+	11.9146	1.08e-05	0.00439	TCGCTCTCCC
+MA0445.1	D	dm6_ct_UserTrack_3545_18	81	91	+	13.9222	1.13e-05	0.0138	TCTTTTGTTTT
+MA0205.1	Trl	dm6_ct_UserTrack_3545_18	592	601	-	11.7805	1.42e-05	0.00439	CGGCTCTCTC
+MA0010.1	br	dm6_ct_UserTrack_3545_18	97	110	+	13.0991	1.59e-05	0.019	GCAAAAAACAAAAA
+MA0205.1	Trl	dm6_ct_UserTrack_3545_18	439	448	+	11.5122	2.48e-05	0.00614	TCTCTCTCTT
+MA0443.1	btd	dm6_ct_UserTrack_3545_18	451	460	-	12.8539	3.19e-05	0.0396	CGGGGGCGGT
+MA0049.1	hb	dm6_ct_UserTrack_3545_18	64	73	-	11.5347	4.46e-05	0.027	CAAAAAAAAA
+MA0447.1	gt	dm6_ct_UserTrack_3545_18	573	582	+	12.2892	4.48e-05	0.0286	TTTACGTAAT
+MA0447.1	gt	dm6_ct_UserTrack_3545_18	573	582	-	12.2892	4.48e-05	0.0286	ATTACGTAAA
+MA0049.1	hb	dm6_ct_UserTrack_3545_18	89	98	-	11.495	4.57e-05	0.027	GCCCAAAAAA
+MA0205.1	Trl	dm6_ct_UserTrack_3545_18	295	304	-	10.8659	5.24e-05	0.00991	TCTCTCTCTG
+MA0205.1	Trl	dm6_ct_UserTrack_3545_18	583	592	-	10.7561	5.6e-05	0.00991	CTTCTCTCGC
+MA0010.1	br	dm6_ct_UserTrack_3545_18	82	95	-	11.1261	7.75e-05	0.0465	CAAAAAAACAAAAG
+MA0533.1	su(Hw)	dm6_ct_UserTrack_3545_18	350	370	+	9.07143	8.04e-05	0.101	GCAACAATTTATGCTGTTTAA
+MA0049.1	hb	dm6_ct_UserTrack_3545_18	88	97	-	10.9406	8.41e-05	0.0331	CCCAAAAAAA
+MA0205.1	Trl	dm6_ct_UserTrack_3545_18	437	446	+	10.378	8.72e-05	0.0135	TATCTCTCTC
+MA0445.1	D	dm6_ct_UserTrack_3545_18	101	111	-	11	9.11e-05	0.0553	TTTTTTGTTTT
+
+# FIMO (Find Individual Motif Occurrences): Version 5.0.5 compiled on Jul 31 2019 at 10:58:47
+# The format of this file is described at http://meme-suite.org//doc/fimo-output-format.html.
+# fimo -o Output_fimo/Notdiff_regulated_fimo/fimo206 Latest_JASPAR.txt FASTA/Notdiff_Regulated/206.txt

@@ -1,0 +1,11 @@
+##gff-version 3
+dm6_ct_UserTrack_3545_46	fimo	nucleotide_motif	182	189	42.3	-	.	Name=MA0094.2_dm6_ct_UserTrack_3545_46-;Alias=Ubx;ID=MA0094.2-Ubx-1-dm6_ct_UserTrack_3545_46;pvalue=5.88e-05;qvalue= 0.0579;sequence=CTTAATTA;
+dm6_ct_UserTrack_3545_46	fimo	nucleotide_motif	176	185	44.9	+	.	Name=MA0447.1_dm6_ct_UserTrack_3545_46+;Alias=gt;ID=MA0447.1-gt-1-dm6_ct_UserTrack_3545_46;pvalue=3.25e-05;qvalue= 0.0159;sequence=ATTACATAAT;
+dm6_ct_UserTrack_3545_46	fimo	nucleotide_motif	176	185	44.9	-	.	Name=MA0447.1_dm6_ct_UserTrack_3545_46-;Alias=gt;ID=MA0447.1-gt-2-dm6_ct_UserTrack_3545_46;pvalue=3.25e-05;qvalue= 0.0159;sequence=ATTATGTAAT;
+dm6_ct_UserTrack_3545_46	fimo	nucleotide_motif	117	126	41.5	+	.	Name=MA0449.1_dm6_ct_UserTrack_3545_46+;Alias=h;ID=MA0449.1-h-1-dm6_ct_UserTrack_3545_46;pvalue=7.03e-05;qvalue= 0.0319;sequence=GTCTCGTGCC;
+dm6_ct_UserTrack_3545_46	fimo	nucleotide_motif	117	126	41.5	-	.	Name=MA0449.1_dm6_ct_UserTrack_3545_46-;Alias=h;ID=MA0449.1-h-2-dm6_ct_UserTrack_3545_46;pvalue=7.03e-05;qvalue= 0.0319;sequence=GGCACGAGAC;
+dm6_ct_UserTrack_3545_46	fimo	nucleotide_motif	131	142	41.9	-	.	Name=MA0456.1_dm6_ct_UserTrack_3545_46-;Alias=opa;ID=MA0456.1-opa-1-dm6_ct_UserTrack_3545_46;pvalue=6.41e-05;qvalue= 0.0603;sequence=GACACCCTGCAA;
+dm6_ct_UserTrack_3545_46	fimo	nucleotide_motif	356	370	44.9	-	.	Name=MA0529.1_dm6_ct_UserTrack_3545_46-;Alias=BEAF-32;ID=MA0529.1-BEAF-32-1-dm6_ct_UserTrack_3545_46;pvalue=3.22e-05;qvalue= 0.0303;sequence=CCGCAGCCATCGAAA;
+dm6_ct_UserTrack_3545_46	fimo	nucleotide_motif	379	393	46.4	-	.	Name=MA0531.1_dm6_ct_UserTrack_3545_46-;Alias=CTCF;ID=MA0531.1-CTCF-1-dm6_ct_UserTrack_3545_46;pvalue=2.26e-05;qvalue= 0.0214;sequence=CAGACAAATGTCGCT;
+dm6_ct_UserTrack_3545_46	fimo	nucleotide_motif	362	376	44.8	-	.	Name=MA0535.1_dm6_ct_UserTrack_3545_46-;Alias=Mad;ID=MA0535.1-Mad-1-dm6_ct_UserTrack_3545_46;pvalue=3.34e-05;qvalue= 0.0303;sequence=CAGTCGCCGCAGCCA;
+dm6_ct_UserTrack_3545_46	fimo	nucleotide_motif	356	366	40.7	+	.	Name=MA0536.1_dm6_ct_UserTrack_3545_46+;Alias=pnr;ID=MA0536.1-pnr-1-dm6_ct_UserTrack_3545_46;pvalue=8.56e-05;qvalue= 0.0835;sequence=TTTCGATGGCT;

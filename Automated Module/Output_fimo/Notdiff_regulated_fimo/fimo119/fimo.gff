@@ -1,0 +1,11 @@
+##gff-version 3
+dm6_ct_UserTrack_3545_23	fimo	nucleotide_motif	242	255	45.5	+	.	Name=MA0010.1_dm6_ct_UserTrack_3545_23+;Alias=br;ID=MA0010.1-br-1-dm6_ct_UserTrack_3545_23;pvalue=2.82e-05;qvalue= 0.0267;sequence=ATAATAAAAAAAAA;
+dm6_ct_UserTrack_3545_23	fimo	nucleotide_motif	245	258	42.1	+	.	Name=MA0010.1_dm6_ct_UserTrack_3545_23+;Alias=br;ID=MA0010.1-br-2-dm6_ct_UserTrack_3545_23;pvalue=6.14e-05;qvalue= 0.0291;sequence=ATAAAAAAAAAAAA;
+dm6_ct_UserTrack_3545_23	fimo	nucleotide_motif	127	137	47.3	-	.	Name=MA0012.1_dm6_ct_UserTrack_3545_23-;Alias=br(var.3);ID=MA0012.1-br(var.3)-1-dm6_ct_UserTrack_3545_23;pvalue=1.86e-05;qvalue= 0.0179;sequence=TAAACAAAAAC;
+dm6_ct_UserTrack_3545_23	fimo	nucleotide_motif	243	253	44.7	+	.	Name=MA0013.1_dm6_ct_UserTrack_3545_23+;Alias=br(var.4);ID=MA0013.1-br(var.4)-1-dm6_ct_UserTrack_3545_23;pvalue=3.41e-05;qvalue= 0.0324;sequence=TAATAAAAAAA;
+dm6_ct_UserTrack_3545_23	fimo	nucleotide_motif	432	438	40.1	-	.	Name=MA0026.1_dm6_ct_UserTrack_3545_23-;Alias=Eip74EF;ID=MA0026.1-Eip74EF-1-dm6_ct_UserTrack_3545_23;pvalue=9.74e-05;qvalue= 0.0931;sequence=CCGGAAA;
+dm6_ct_UserTrack_3545_23	fimo	nucleotide_motif	243	252	40.7	+	.	Name=MA0049.1_dm6_ct_UserTrack_3545_23+;Alias=hb;ID=MA0049.1-hb-1-dm6_ct_UserTrack_3545_23;pvalue=8.41e-05;qvalue= 0.0795;sequence=TAATAAAAAA;
+dm6_ct_UserTrack_3545_23	fimo	nucleotide_motif	115	124	55.2	-	.	Name=MA0205.1_dm6_ct_UserTrack_3545_23-;Alias=Trl;ID=MA0205.1-Trl-1-dm6_ct_UserTrack_3545_23;pvalue=3.01e-06;qvalue= 0.00293;sequence=CCGCTCTCTC;
+dm6_ct_UserTrack_3545_23	fimo	nucleotide_motif	113	122	42.9	-	.	Name=MA0205.1_dm6_ct_UserTrack_3545_23-;Alias=Trl;ID=MA0205.1-Trl-2-dm6_ct_UserTrack_3545_23;pvalue=5.07e-05;qvalue= 0.0246;sequence=GCTCTCTCTC;
+dm6_ct_UserTrack_3545_23	fimo	nucleotide_motif	85	96	42.1	+	.	Name=MA0456.1_dm6_ct_UserTrack_3545_23+;Alias=opa;ID=MA0456.1-opa-1-dm6_ct_UserTrack_3545_23;pvalue=6.09e-05;qvalue= 0.0545;sequence=GCAGCCCCGGTG;
+dm6_ct_UserTrack_3545_23	fimo	nucleotide_motif	373	387	41.7	-	.	Name=MA0534.1_dm6_ct_UserTrack_3545_23-;Alias=EcR::usp;ID=MA0534.1-EcR::usp-1-dm6_ct_UserTrack_3545_23;pvalue=6.7e-05;qvalue= 0.0645;sequence=GGATTTGTTGCCTCC;

@@ -1,0 +1,4 @@
+##gff-version 3
+dm6_ct_UserTrack_3545_14	fimo	nucleotide_motif	14	27	43.3	+	.	Name=MA0010.1_dm6_ct_UserTrack_3545_14+;Alias=br;ID=MA0010.1-br-1-dm6_ct_UserTrack_3545_14;pvalue=4.68e-05;qvalue= 0.0452;sequence=TTATTAGACAAGTG;
+dm6_ct_UserTrack_3545_14	fimo	nucleotide_motif	67	76	45.7	-	.	Name=MA0049.1_dm6_ct_UserTrack_3545_14-;Alias=hb;ID=MA0049.1-hb-1-dm6_ct_UserTrack_3545_14;pvalue=2.69e-05;qvalue= 0.0256;sequence=GCATAAAAAC;
+dm6_ct_UserTrack_3545_14	fimo	nucleotide_motif	426	434	40.9	+	.	Name=MA0460.1_dm6_ct_UserTrack_3545_14+;Alias=ttk;ID=MA0460.1-ttk-1-dm6_ct_UserTrack_3545_14;pvalue=8.13e-05;qvalue= 0.0797;sequence=AAGGATAAA;

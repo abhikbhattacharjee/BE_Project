@@ -1,0 +1,11 @@
+##gff-version 3
+dm6_ct_UserTrack_3545_8	fimo	nucleotide_motif	602	612	42.8	+	.	Name=MA222222.2_dm6_ct_UserTrack_3545_8+;Alias=denovo_ubx;ID=MA222222.2-denovo_ubx-1-dm6_ct_UserTrack_3545_8;pvalue=5.22e-05;qvalue= 0.0672;sequence=TGTTTTATTGG;
+dm6_ct_UserTrack_3545_8	fimo	nucleotide_motif	408	416	46.8	+	.	Name=MA11111.1_dm6_ct_UserTrack_3545_8+;Alias=mes2;ID=MA11111.1-mes2-1-dm6_ct_UserTrack_3545_8;pvalue=2.07e-05;qvalue= 0.0304;sequence=TGGCCCAAG;
+dm6_ct_UserTrack_3545_8	fimo	nucleotide_motif	549	555	40.1	-	.	Name=MA0026.1_dm6_ct_UserTrack_3545_8-;Alias=Eip74EF;ID=MA0026.1-Eip74EF-1-dm6_ct_UserTrack_3545_8;pvalue=9.74e-05;qvalue= 0.142;sequence=CCGGAAA;
+dm6_ct_UserTrack_3545_8	fimo	nucleotide_motif	637	646	43.5	-	.	Name=MA0049.1_dm6_ct_UserTrack_3545_8-;Alias=hb;ID=MA0049.1-hb-1-dm6_ct_UserTrack_3545_8;pvalue=4.46e-05;qvalue= 0.0358;sequence=CAAAAAAAAA;
+dm6_ct_UserTrack_3545_8	fimo	nucleotide_motif	382	391	42.8	+	.	Name=MA0049.1_dm6_ct_UserTrack_3545_8+;Alias=hb;ID=MA0049.1-hb-2-dm6_ct_UserTrack_3545_8;pvalue=5.28e-05;qvalue= 0.0358;sequence=CCATAAAAAC;
+dm6_ct_UserTrack_3545_8	fimo	nucleotide_motif	149	158	 45	-	.	Name=MA0205.1_dm6_ct_UserTrack_3545_8-;Alias=Trl;ID=MA0205.1-Trl-1-dm6_ct_UserTrack_3545_8;pvalue=3.12e-05;qvalue= 0.0462;sequence=CTGCTCTCTG;
+dm6_ct_UserTrack_3545_8	fimo	nucleotide_motif	584	593	46.4	-	.	Name=MA0459.1_dm6_ct_UserTrack_3545_8-;Alias=tll;ID=MA0459.1-tll-1-dm6_ct_UserTrack_3545_8;pvalue=2.31e-05;qvalue= 0.0333;sequence=AAAAGCCAAC;
+dm6_ct_UserTrack_3545_8	fimo	nucleotide_motif	648	661	57.5	+	.	Name=MA0452.2_dm6_ct_UserTrack_3545_8+;Alias=Kr;ID=MA0452.2-Kr-1-dm6_ct_UserTrack_3545_8;pvalue=1.76e-06;qvalue= 0.0025;sequence=TTCAACCCTTTCGA;
+dm6_ct_UserTrack_3545_8	fimo	nucleotide_motif	560	573	42.5	+	.	Name=MA0237.2_dm6_ct_UserTrack_3545_8+;Alias=pan;ID=MA0237.2-pan-1-dm6_ct_UserTrack_3545_8;pvalue=5.63e-05;qvalue= 0.0787;sequence=TCGCTTCTTTGCTT;
+dm6_ct_UserTrack_3545_8	fimo	nucleotide_motif	234	243	 47	-	.	Name=MA0247.2_dm6_ct_UserTrack_3545_8-;Alias=tin;ID=MA0247.2-tin-1-dm6_ct_UserTrack_3545_8;pvalue=1.99e-05;qvalue= 0.0294;sequence=CCTCAAGTGG;

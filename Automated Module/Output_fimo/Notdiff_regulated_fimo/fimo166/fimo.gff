@@ -1,0 +1,11 @@
+##gff-version 3
+dm6_ct_UserTrack_3545_17	fimo	nucleotide_motif	601	611	58.7	-	.	Name=MA222222.2_dm6_ct_UserTrack_3545_17-;Alias=denovo_ubx;ID=MA222222.2-denovo_ubx-1-dm6_ct_UserTrack_3545_17;pvalue=1.35e-06;qvalue= 0.00239;sequence=TTATTTATGGC;
+dm6_ct_UserTrack_3545_17	fimo	nucleotide_motif	540	550	43.4	+	.	Name=MA222222.2_dm6_ct_UserTrack_3545_17+;Alias=denovo_ubx;ID=MA222222.2-denovo_ubx-2-dm6_ct_UserTrack_3545_17;pvalue=4.58e-05;qvalue= 0.0407;sequence=TTATTTATTTT;
+dm6_ct_UserTrack_3545_17	fimo	nucleotide_motif	327	335	40.7	-	.	Name=MA11111.1_dm6_ct_UserTrack_3545_17-;Alias=mes2;ID=MA11111.1-mes2-1-dm6_ct_UserTrack_3545_17;pvalue=8.43e-05;qvalue= 0.145;sequence=GGGCCCAAG;
+dm6_ct_UserTrack_3545_17	fimo	nucleotide_motif	448	455	42.7	+	.	Name=MA0011.1_dm6_ct_UserTrack_3545_17+;Alias=br(var.2);ID=MA0011.1-br(var.2)-1-dm6_ct_UserTrack_3545_17;pvalue=5.3e-05;qvalue= 0.0472;sequence=TTCTATTT;
+dm6_ct_UserTrack_3545_17	fimo	nucleotide_motif	211	218	42.7	-	.	Name=MA0011.1_dm6_ct_UserTrack_3545_17-;Alias=br(var.2);ID=MA0011.1-br(var.2)-2-dm6_ct_UserTrack_3545_17;pvalue=5.3e-05;qvalue= 0.0472;sequence=TTCTATTT;
+dm6_ct_UserTrack_3545_17	fimo	nucleotide_motif	819	829	41.8	-	.	Name=MA0012.1_dm6_ct_UserTrack_3545_17-;Alias=br(var.3);ID=MA0012.1-br(var.3)-1-dm6_ct_UserTrack_3545_17;pvalue=6.56e-05;qvalue= 0.116;sequence=AAAACTAAAAA;
+dm6_ct_UserTrack_3545_17	fimo	nucleotide_motif	314	325	43.3	+	.	Name=MA0456.1_dm6_ct_UserTrack_3545_17+;Alias=opa;ID=MA0456.1-opa-1-dm6_ct_UserTrack_3545_17;pvalue=4.7e-05;qvalue= 0.08;sequence=CCCCCCCTGCGA;
+dm6_ct_UserTrack_3545_17	fimo	nucleotide_motif	419	432	45.3	+	.	Name=MA0452.2_dm6_ct_UserTrack_3545_17+;Alias=Kr;ID=MA0452.2-Kr-1-dm6_ct_UserTrack_3545_17;pvalue=2.94e-05;qvalue= 0.05;sequence=CGAACCCCTTTTTT;
+dm6_ct_UserTrack_3545_17	fimo	nucleotide_motif	418	431	42.5	+	.	Name=MA0452.2_dm6_ct_UserTrack_3545_17+;Alias=Kr;ID=MA0452.2-Kr-2-dm6_ct_UserTrack_3545_17;pvalue=5.65e-05;qvalue= 0.05;sequence=TCGAACCCCTTTTT;
+dm6_ct_UserTrack_3545_17	fimo	nucleotide_motif	647	661	57.1	+	.	Name=MA0532.1_dm6_ct_UserTrack_3545_17+;Alias=Stat92E;ID=MA0532.1-Stat92E-1-dm6_ct_UserTrack_3545_17;pvalue=1.93e-06;qvalue= 0.0034;sequence=CCGATTTCCAGGAAG;

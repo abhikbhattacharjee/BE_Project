@@ -1,0 +1,20 @@
+##gff-version 3
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	760	770	 47	-	.	Name=MA222222.2_dm6_ct_UserTrack_3545_15-;Alias=denovo_ubx;ID=MA222222.2-denovo_ubx-1-dm6_ct_UserTrack_3545_15;pvalue=1.99e-05;qvalue= 0.0453;sequence=TAATTTATGCC;
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	354	362	40.9	-	.	Name=MA11111.1_dm6_ct_UserTrack_3545_15-;Alias=mes2;ID=MA11111.1-mes2-1-dm6_ct_UserTrack_3545_15;pvalue=8.2e-05;qvalue= 0.184;sequence=GGGCCAAAT;
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	216	229	44.5	+	.	Name=MA0010.1_dm6_ct_UserTrack_3545_15+;Alias=br;ID=MA0010.1-br-1-dm6_ct_UserTrack_3545_15;pvalue=3.53e-05;qvalue= 0.0795;sequence=ATAATAGACAGTTC;
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	1063	1070	42.7	+	.	Name=MA0011.1_dm6_ct_UserTrack_3545_15+;Alias=br(var.2);ID=MA0011.1-br(var.2)-1-dm6_ct_UserTrack_3545_15;pvalue=5.3e-05;qvalue= 0.12;sequence=TTCTATTT;
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	1048	1058	41.8	-	.	Name=MA0012.1_dm6_ct_UserTrack_3545_15-;Alias=br(var.3);ID=MA0012.1-br(var.3)-1-dm6_ct_UserTrack_3545_15;pvalue=6.56e-05;qvalue= 0.149;sequence=AAAACTAAAAT;
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	1051	1061	41.2	-	.	Name=MA0013.1_dm6_ct_UserTrack_3545_15-;Alias=br(var.4);ID=MA0013.1-br(var.4)-1-dm6_ct_UserTrack_3545_15;pvalue=7.66e-05;qvalue= 0.174;sequence=TTGAAAACTAA;
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	808	819	43.5	+	.	Name=MA0022.1_dm6_ct_UserTrack_3545_15+;Alias=dl;ID=MA0022.1-dl-1-dm6_ct_UserTrack_3545_15;pvalue=4.49e-05;qvalue= 0.1;sequence=GGGGGGATTCCG;
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	745	754	46.1	+	.	Name=MA0049.1_dm6_ct_UserTrack_3545_15+;Alias=hb;ID=MA0049.1-hb-1-dm6_ct_UserTrack_3545_15;pvalue=2.42e-05;qvalue= 0.0396;sequence=GAACAAAAAA;
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	342	351	44.5	+	.	Name=MA0049.1_dm6_ct_UserTrack_3545_15+;Alias=hb;ID=MA0049.1-hb-2-dm6_ct_UserTrack_3545_15;pvalue=3.56e-05;qvalue= 0.0396;sequence=CCATAAAAAT;
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	470	485	42.8	+	.	Name=MA0085.1_dm6_ct_UserTrack_3545_15+;Alias=Su(H);ID=MA0085.1-Su(H)-1-dm6_ct_UserTrack_3545_15;pvalue=5.19e-05;qvalue= 0.118;sequence=GTGAGGGAAAAGGGAT;
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	890	901	45.7	+	.	Name=MA0243.1_dm6_ct_UserTrack_3545_15+;Alias=sd;ID=MA0243.1-sd-1-dm6_ct_UserTrack_3545_15;pvalue=2.67e-05;qvalue= 0.0602;sequence=GACATTTAACGA;
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	748	759	42.5	-	.	Name=MA0249.1_dm6_ct_UserTrack_3545_15-;Alias=twi;ID=MA0249.1-twi-1-dm6_ct_UserTrack_3545_15;pvalue=5.59e-05;qvalue= 0.126;sequence=TGGCATTTTTTG;
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	498	508	41.7	-	.	Name=MA0445.1_dm6_ct_UserTrack_3545_15-;Alias=D;ID=MA0445.1-D-1-dm6_ct_UserTrack_3545_15;pvalue=6.81e-05;qvalue= 0.154;sequence=TCTTTTGTGGT;
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	1032	1043	40.6	-	.	Name=MA0197.2_dm6_ct_UserTrack_3545_15-;Alias=nub;ID=MA0197.2-nub-1-dm6_ct_UserTrack_3545_15;pvalue=8.69e-05;qvalue= 0.197;sequence=CATTCAAATAAG;
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	389	399	42.3	-	.	Name=MA0454.1_dm6_ct_UserTrack_3545_15-;Alias=odd;ID=MA0454.1-odd-1-dm6_ct_UserTrack_3545_15;pvalue=5.84e-05;qvalue= 0.133;sequence=AACAGCAGCAA;
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	664	675	51.9	+	.	Name=MA0456.1_dm6_ct_UserTrack_3545_15+;Alias=opa;ID=MA0456.1-opa-1-dm6_ct_UserTrack_3545_15;pvalue=6.49e-06;qvalue= 0.0144;sequence=GACCGCCCGCCG;
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	11	24	40.5	+	.	Name=MA0452.2_dm6_ct_UserTrack_3545_15+;Alias=Kr;ID=MA0452.2-Kr-1-dm6_ct_UserTrack_3545_15;pvalue=8.81e-05;qvalue= 0.2;sequence=CCCAACTCTTTAGC;
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	1068	1082	40.7	-	.	Name=MA0532.1_dm6_ct_UserTrack_3545_15-;Alias=Stat92E;ID=MA0532.1-Stat92E-1-dm6_ct_UserTrack_3545_15;pvalue=8.55e-05;qvalue= 0.194;sequence=CTCGGTTTCAAGAAA;
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	1135	1144	43.4	+	.	Name=MA0247.2_dm6_ct_UserTrack_3545_15+;Alias=tin;ID=MA0247.2-tin-1-dm6_ct_UserTrack_3545_15;pvalue=4.53e-05;qvalue= 0.102;sequence=TTTTAAGTGG;

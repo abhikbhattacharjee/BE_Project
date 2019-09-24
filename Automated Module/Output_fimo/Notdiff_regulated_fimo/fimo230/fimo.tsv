@@ -1,0 +1,24 @@
+motif_id	motif_alt_id	sequence_name	start	stop	strand	score	p-value	q-value	matched_sequence
+MA0535.1	Mad	dm6_ct_UserTrack_3545_42	224	238	+	16.5976	8.77e-07	0.000935	GCGACGCCGACGTCG
+MA0205.1	Trl	dm6_ct_UserTrack_3545_42	390	399	-	12.9878	2.4e-06	0.00106	CTGCTCTCTC
+MA0205.1	Trl	dm6_ct_UserTrack_3545_42	476	485	-	12.5976	5.03e-06	0.00106	TCTCTCTCTC
+MA0205.1	Trl	dm6_ct_UserTrack_3545_42	478	487	-	12.5976	5.03e-06	0.00106	TCTCTCTCTC
+MA0205.1	Trl	dm6_ct_UserTrack_3545_42	480	489	-	12.5976	5.03e-06	0.00106	TCTCTCTCTC
+MA0205.1	Trl	dm6_ct_UserTrack_3545_42	482	491	-	12.5976	5.03e-06	0.00106	TCTCTCTCTC
+MA0205.1	Trl	dm6_ct_UserTrack_3545_42	484	493	-	12.1829	8.54e-06	0.0015	CCTCTCTCTC
+MA0085.1	Su(H)	dm6_ct_UserTrack_3545_42	285	300	-	13.3853	1.3e-05	0.0139	CCGTGGGAAACAATTC
+MA0205.1	Trl	dm6_ct_UserTrack_3545_42	474	483	-	11.5122	2.48e-05	0.00372	TCTCTCTCTT
+MA0012.1	br(var.3)	dm6_ct_UserTrack_3545_42	164	174	+	11.3929	3.12e-05	0.0193	AAAACAAAAAG
+MA0012.1	br(var.3)	dm6_ct_UserTrack_3545_42	137	147	+	11.2679	3.82e-05	0.0193	AAAACAAAACG
+MA0010.1	br	dm6_ct_UserTrack_3545_42	133	146	+	11.964	4.16e-05	0.0398	AACAAAAACAAAAC
+MA0205.1	Trl	dm6_ct_UserTrack_3545_42	525	534	-	11.0366	4.41e-05	0.00524	TAGCTCTCTC
+MA0205.1	Trl	dm6_ct_UserTrack_3545_42	521	530	-	11.0244	4.48e-05	0.00524	TCTCTCTCGC
+MA0049.1	hb	dm6_ct_UserTrack_3545_42	184	193	+	11.4059	5.01e-05	0.0495	CAACAAAAAA
+MA0205.1	Trl	dm6_ct_UserTrack_3545_42	523	532	-	10.8902	5.07e-05	0.00533	GCTCTCTCTC
+MA0535.1	Mad	dm6_ct_UserTrack_3545_42	225	239	-	11.5732	5.48e-05	0.0208	TCGACGTCGGCGTCG
+MA0535.1	Mad	dm6_ct_UserTrack_3545_42	230	244	+	11.3293	6.23e-05	0.0208	CCGACGTCGACGTCA
+MA0535.1	Mad	dm6_ct_UserTrack_3545_42	231	245	-	10.878	7.82e-05	0.0208	TTGACGTCGACGTCG
+
+# FIMO (Find Individual Motif Occurrences): Version 5.0.5 compiled on Jul 31 2019 at 10:58:47
+# The format of this file is described at http://meme-suite.org//doc/fimo-output-format.html.
+# fimo -o Output_fimo/Notdiff_regulated_fimo/fimo230 Latest_JASPAR.txt FASTA/Notdiff_Regulated/230.txt

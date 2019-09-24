@@ -1,0 +1,6 @@
+##gff-version 3
+dm6_ct_UserTrack_3545_21	fimo	nucleotide_motif	186	194	44.8	+	.	Name=MA11111.1_dm6_ct_UserTrack_3545_21+;Alias=mes2;ID=MA11111.1-mes2-1-dm6_ct_UserTrack_3545_21;pvalue=3.34e-05;qvalue= 0.0252;sequence=CGGCCAAAA;
+dm6_ct_UserTrack_3545_21	fimo	nucleotide_motif	393	401	42.7	+	.	Name=MA11111.1_dm6_ct_UserTrack_3545_21+;Alias=mes2;ID=MA11111.1-mes2-2-dm6_ct_UserTrack_3545_21;pvalue=5.36e-05;qvalue= 0.0252;sequence=TGGCCAACA;
+dm6_ct_UserTrack_3545_21	fimo	nucleotide_motif	93	101	42.5	-	.	Name=MA0242.1_dm6_ct_UserTrack_3545_21-;Alias=Bgb::run;ID=MA0242.1-Bgb::run-1-dm6_ct_UserTrack_3545_21;pvalue=5.66e-05;qvalue= 0.0518;sequence=AGACCGCAA;
+dm6_ct_UserTrack_3545_21	fimo	nucleotide_motif	118	128	43.7	+	.	Name=MA0446.1_dm6_ct_UserTrack_3545_21+;Alias=fkh;ID=MA0446.1-fkh-1-dm6_ct_UserTrack_3545_21;pvalue=4.3e-05;qvalue= 0.0421;sequence=TATTTGCATAA;
+dm6_ct_UserTrack_3545_21	fimo	nucleotide_motif	116	127	49.8	-	.	Name=MA0197.2_dm6_ct_UserTrack_3545_21-;Alias=nub;ID=MA0197.2-nub-1-dm6_ct_UserTrack_3545_21;pvalue=1.04e-05;qvalue= 0.0101;sequence=TATGCAAATATT;

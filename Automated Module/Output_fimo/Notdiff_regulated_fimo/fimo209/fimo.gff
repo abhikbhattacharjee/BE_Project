@@ -1,0 +1,11 @@
+##gff-version 3
+dm6_ct_UserTrack_3545_21	fimo	nucleotide_motif	518	528	 51	+	.	Name=MA222222.2_dm6_ct_UserTrack_3545_21+;Alias=denovo_ubx;ID=MA222222.2-denovo_ubx-1-dm6_ct_UserTrack_3545_21;pvalue=7.91e-06;qvalue= 0.00932;sequence=TTATTTATGAC;
+dm6_ct_UserTrack_3545_21	fimo	nucleotide_motif	29	39	42.8	+	.	Name=MA222222.2_dm6_ct_UserTrack_3545_21+;Alias=denovo_ubx;ID=MA222222.2-denovo_ubx-2-dm6_ct_UserTrack_3545_21;pvalue=5.22e-05;qvalue= 0.0308;sequence=TGTTTTATTGG;
+dm6_ct_UserTrack_3545_21	fimo	nucleotide_motif	103	109	40.1	-	.	Name=MA0026.1_dm6_ct_UserTrack_3545_21-;Alias=Eip74EF;ID=MA0026.1-Eip74EF-1-dm6_ct_UserTrack_3545_21;pvalue=9.74e-05;qvalue= 0.115;sequence=CCGGAAA;
+dm6_ct_UserTrack_3545_21	fimo	nucleotide_motif	270	278	45.5	-	.	Name=MA0242.1_dm6_ct_UserTrack_3545_21-;Alias=Bgb::run;ID=MA0242.1-Bgb::run-1-dm6_ct_UserTrack_3545_21;pvalue=2.78e-05;qvalue= 0.0325;sequence=AAACCACAA;
+dm6_ct_UserTrack_3545_21	fimo	nucleotide_motif	467	476	47.2	-	.	Name=MA0443.1_dm6_ct_UserTrack_3545_21-;Alias=btd;ID=MA0443.1-btd-1-dm6_ct_UserTrack_3545_21;pvalue=1.89e-05;qvalue= 0.0216;sequence=AGTGGGCGTG;
+dm6_ct_UserTrack_3545_21	fimo	nucleotide_motif	163	172	42.8	+	.	Name=MA0449.1_dm6_ct_UserTrack_3545_21+;Alias=h;ID=MA0449.1-h-1-dm6_ct_UserTrack_3545_21;pvalue=5.2e-05;qvalue= 0.0266;sequence=GCCACATGCC;
+dm6_ct_UserTrack_3545_21	fimo	nucleotide_motif	163	172	42.8	-	.	Name=MA0449.1_dm6_ct_UserTrack_3545_21-;Alias=h;ID=MA0449.1-h-2-dm6_ct_UserTrack_3545_21;pvalue=5.2e-05;qvalue= 0.0266;sequence=GGCATGTGGC;
+dm6_ct_UserTrack_3545_21	fimo	nucleotide_motif	484	495	44.4	-	.	Name=MA0456.1_dm6_ct_UserTrack_3545_21-;Alias=opa;ID=MA0456.1-opa-1-dm6_ct_UserTrack_3545_21;pvalue=3.62e-05;qvalue= 0.0272;sequence=GACCGCCCATGG;
+dm6_ct_UserTrack_3545_21	fimo	nucleotide_motif	449	460	 43	+	.	Name=MA0456.1_dm6_ct_UserTrack_3545_21+;Alias=opa;ID=MA0456.1-opa-2-dm6_ct_UserTrack_3545_21;pvalue=5.04e-05;qvalue= 0.0272;sequence=GCCACCCCGCCA;
+dm6_ct_UserTrack_3545_21	fimo	nucleotide_motif	172	179	41.9	-	.	Name=MA0917.1_dm6_ct_UserTrack_3545_21-;Alias=gcm2;ID=MA0917.1-gcm2-1-dm6_ct_UserTrack_3545_21;pvalue=6.46e-05;qvalue= 0.0703;sequence=ATGCGGGG;

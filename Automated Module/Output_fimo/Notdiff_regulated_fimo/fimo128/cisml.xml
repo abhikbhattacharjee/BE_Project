@@ -1,0 +1,365 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<!-- Document definition -->
+<!-- http://zlab.bu.edu/~phaverty/SupplementalData/CisML/cisml.dtd -->
+<!DOCTYPE cis-element-search[
+<!ELEMENT cis-element-search (program-name, parameters, (pattern | multi-pattern-scan)*)>
+<!ELEMENT program-name (#PCDATA)>
+<!ELEMENT parameters (
+  pattern-file, 
+  sequence-file, 
+  background-seq-file?,
+  pattern-pvalue-cutoff?,
+  sequence-pvalue-cutoff?,
+  site-pvalue-cutoff?,
+  sequence-filtering,
+  ANY*
+ )>
+<!ELEMENT command-line (#PCDATA)>
+<!ELEMENT pattern-file (#PCDATA)>
+<!ELEMENT sequence-file (#PCDATA)>
+<!ELEMENT background-seq-file (#PCDATA)>
+<!ELEMENT pattern-pvalue-cutoff (#PCDATA)>
+<!ELEMENT sequence-pvalue-cutoff (#PCDATA)>
+<!ELEMENT site-pvalue-cutoff (#PCDATA)>
+<!ELEMENT sequence-filtering EMPTY>
+<!ELEMENT multi-pattern-scan (pattern+, ANY*)>
+<!ELEMENT pattern (scanned-sequence+, ANY*)>
+<!ELEMENT scanned-sequence (matched-element*, ANY*)>
+<!ELEMENT matched-element (sequence)>
+<!ELEMENT sequence (#PCDATA)>
+<!ATTLIST cis-element-search
+xmlns:xsi CDATA #IMPLIED
+xmlns:mem CDATA #IMPLIED
+xsi:schemaLocation CDATA #IMPLIED
+>
+<!ATTLIST sequence-filtering
+on-off CDATA #REQUIRED
+type CDATA #IMPLIED
+>
+<!ATTLIST multi-pattern-scan
+score CDATA #IMPLIED
+pvalue CDATA #IMPLIED
+>
+<!ATTLIST pattern
+accession CDATA #REQUIRED
+name CDATA #REQUIRED
+pvalue CDATA #IMPLIED
+score CDATA #IMPLIED
+db CDATA #IMPLIED
+lsid CDATA #IMPLIED
+>
+<!ATTLIST scanned-sequence
+accession CDATA #REQUIRED
+name CDATA #REQUIRED
+score CDATA #IMPLIED
+pvalue CDATA #IMPLIED
+length CDATA #IMPLIED
+db CDATA #IMPLIED
+lsid CDATA #IMPLIED
+>
+<!ATTLIST matched-element
+start CDATA #REQUIRED
+stop CDATA #REQUIRED
+score CDATA #IMPLIED
+pvalue CDATA #IMPLIED
+clusterid CDATA #IMPLIED
+>
+
+]>
+<cis-element-search
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://zlab.bu.edu/schema/cisml cisml.xsd"
+  xmlns="http://zlab.bu.edu/schema/cisml"
+  xmlns:mem="http://noble.gs.washington.edu/meme"
+>
+<program-name>fimo</program-name>
+<parameters>
+<command-line>fimo -o Output_fimo/Notdiff_regulated_fimo/fimo128 Latest_JASPAR.txt FASTA/Notdiff_Regulated/128.txt</command-line>
+<pattern-file>Latest_JASPAR.txt</pattern-file>
+<sequence-file>FASTA/Notdiff_Regulated/128.txt</sequence-file>
+<site-pvalue-cutoff>0.0001</site-pvalue-cutoff>
+<sequence-filtering on-off="off"/>
+</parameters>
+<pattern accession="MA222222.2" name="denovo_ubx">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+<matched-element start="407" stop="397" score="12.9444" pvalue="1.92e-05">
+<sequence>TTATTTATGTT</sequence>
+<mem:qvalue>0.0183</mem:qvalue>
+</matched-element>
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA11111.1" name="mes2">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0010.1" name="br">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+<matched-element start="379" stop="392" score="12.1351" pvalue="3.6e-05">
+<sequence>GTAAAAAAAAAAAA</sequence>
+<mem:qvalue>0.0167</mem:qvalue>
+</matched-element>
+<matched-element start="385" stop="398" score="12.1351" pvalue="3.6e-05">
+<sequence>AAAAAAAACAAAAA</sequence>
+<mem:qvalue>0.0167</mem:qvalue>
+</matched-element>
+<matched-element start="354" stop="367" score="11.3333" pvalue="6.62e-05">
+<sequence>CTAAAAAAAAAATC</sequence>
+<mem:qvalue>0.0204</mem:qvalue>
+</matched-element>
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0011.1" name="br(var.2)">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+<matched-element start="421" stop="414" score="10.8214" pvalue="5.3e-05">
+<sequence>TTCTATTT</sequence>
+<mem:qvalue>0.0489</mem:qvalue>
+</matched-element>
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0012.1" name="br(var.3)">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+<matched-element start="389" stop="399" score="10.6607" pvalue="7.65e-05">
+<sequence>AAAACAAAAAC</sequence>
+<mem:qvalue>0.0727</mem:qvalue>
+</matched-element>
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0013.1" name="br(var.4)">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0015.1" name="Cf2">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0016.1" name="usp">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0022.1" name="dl">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0026.1" name="Eip74EF">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0049.1" name="hb">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+<matched-element start="117" stop="108" score="12.9208" pvalue="8.27e-06">
+<sequence>GCAAAAAAAA</sequence>
+<mem:qvalue>0.00662</mem:qvalue>
+</matched-element>
+<matched-element start="377" stop="386" score="12.3564" pvalue="1.43e-05">
+<sequence>CCGTAAAAAA</sequence>
+<mem:qvalue>0.00662</mem:qvalue>
+</matched-element>
+<matched-element start="119" stop="110" score="11.9109" pvalue="3.4e-05">
+<sequence>GCGCAAAAAA</sequence>
+<mem:qvalue>0.0105</mem:qvalue>
+</matched-element>
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0085.1" name="Su(H)">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+<matched-element start="181" stop="196" score="7.50459" pvalue="9.77e-05">
+<sequence>CGGTGGGAAAGTCAAG</sequence>
+<mem:qvalue>0.0945</mem:qvalue>
+</matched-element>
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0126.1" name="ovo">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0185.1" name="Deaf1">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0190.1" name="Gsc">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0205.1" name="Trl">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+<matched-element start="300" stop="291" score="11.5" pvalue="2.53e-05">
+<sequence>CCGCTCTCCC</sequence>
+<mem:qvalue>0.024</mem:qvalue>
+</matched-element>
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0213.1" name="brk">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0227.1" name="hth">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0242.1" name="Bgb::run">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0243.1" name="sd">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0246.1" name="so">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0249.1" name="twi">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0254.1" name="vvl">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0094.2" name="Ubx">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0443.1" name="btd">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0445.1" name="D">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0446.1" name="fkh">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0447.1" name="gt">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0449.1" name="h">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0197.2" name="nub">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0454.1" name="odd">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0456.1" name="opa">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0459.1" name="tll">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+<matched-element start="187" stop="196" score="12.2472" pvalue="3.56e-05">
+<sequence>GAAAGTCAAG</sequence>
+<mem:qvalue>0.0339</mem:qvalue>
+</matched-element>
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0460.1" name="ttk">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0529.1" name="BEAF-32">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0531.1" name="CTCF">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0452.2" name="Kr">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+<matched-element start="41" stop="54" score="11.4754" pvalue="5.38e-05">
+<sequence>CATACCCCTTCCCC</sequence>
+<mem:qvalue>0.0503</mem:qvalue>
+</matched-element>
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0532.1" name="Stat92E">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0533.1" name="su(Hw)">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0534.1" name="EcR::usp">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0237.2" name="pan">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0535.1" name="Mad">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0536.1" name="pnr">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0247.2" name="tin">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0917.1" name="gcm2">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+<pattern accession="MA0086.2" name="sna">
+<scanned-sequence accession="dm6_ct_UserTrack_3545_32" name="dm6_ct_UserTrack_3545_32">
+</scanned-sequence>
+<mem:has-qvalues>yes</mem:has-qvalues>
+</pattern>
+</cis-element-search>

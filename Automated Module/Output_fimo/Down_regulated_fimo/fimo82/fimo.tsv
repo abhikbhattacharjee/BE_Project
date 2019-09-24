@@ -1,0 +1,25 @@
+motif_id	motif_alt_id	sequence_name	start	stop	strand	score	p-value	q-value	matched_sequence
+MA0049.1	hb	dm6_ct_UserTrack_3545_10	449	458	-	13.2376	3.28e-06	0.00346	CCATAAAAAA
+MA0213.1	brk	dm6_ct_UserTrack_3545_10	67	74	-	13.6147	8.13e-06	0.00765	CTGGCGCC
+MA0205.1	Trl	dm6_ct_UserTrack_3545_10	192	201	-	12.1829	8.54e-06	0.00902	CCTCTCTCTC
+MA0205.1	Trl	dm6_ct_UserTrack_3545_10	31	40	+	11.5488	2.2e-05	0.0116	GCGCTCTCTC
+MA222222.2	denovo_ubx	dm6_ct_UserTrack_3545_10	449	459	+	12.6944	2.29e-05	0.0247	TTTTTTATGGC
+MA0213.1	brk	dm6_ct_UserTrack_3545_10	65	72	+	13.2936	2.29e-05	0.00765	GTGGCGCC
+MA0213.1	brk	dm6_ct_UserTrack_3545_10	241	248	-	13.2936	2.29e-05	0.00765	GTGGCGCC
+MA0534.1	EcR::usp	dm6_ct_UserTrack_3545_10	454	468	-	12.2105	3.59e-05	0.0384	CAGTACAATGCCATA
+MA0535.1	Mad	dm6_ct_UserTrack_3545_10	60	74	-	12.2439	3.73e-05	0.0355	CTGGCGCCACGATAC
+MA0205.1	Trl	dm6_ct_UserTrack_3545_10	190	199	-	11.0244	4.48e-05	0.013	TCTCTCTCGC
+MA222222.2	denovo_ubx	dm6_ct_UserTrack_3545_10	144	154	-	11.8194	4.58e-05	0.0247	TTATTTATTTT
+MA0205.1	Trl	dm6_ct_UserTrack_3545_10	194	203	-	10.939	4.91e-05	0.013	TCCCTCTCTC
+MA0213.1	brk	dm6_ct_UserTrack_3545_10	28	35	+	12.3945	6.57e-05	0.0164	GCGGCGCT
+MA0452.2	Kr	dm6_ct_UserTrack_3545_10	277	290	-	10.9836	6.81e-05	0.073	TGCACCCCCTTTCA
+MA0242.1	Bgb::run	dm6_ct_UserTrack_3545_10	514	522	-	10.9888	7.2e-05	0.0761	AAGCCGCAA
+MA0249.1	twi	dm6_ct_UserTrack_3545_10	167	178	-	10.9697	7.33e-05	0.0739	CCGCCCGTGTTT
+MA0205.1	Trl	dm6_ct_UserTrack_3545_10	228	237	+	10.5366	7.39e-05	0.0132	TGGCGCTCTC
+MA0205.1	Trl	dm6_ct_UserTrack_3545_10	213	222	-	10.5244	7.51e-05	0.0132	CCTCGCTCTC
+MA0213.1	brk	dm6_ct_UserTrack_3545_10	239	246	+	11.0459	8.37e-05	0.0168	ATGGCGCC
+MA11111.1	mes2	dm6_ct_UserTrack_3545_10	386	394	+	10.8171	9.43e-05	0.0983	TGGCCAGAA
+
+# FIMO (Find Individual Motif Occurrences): Version 5.0.5 compiled on Jul 31 2019 at 10:58:47
+# The format of this file is described at http://meme-suite.org//doc/fimo-output-format.html.
+# fimo -o Output_fimo/Down_regulated_fimo/fimo82 Latest_JASPAR.txt FASTA/Down_Regulated/82.txt

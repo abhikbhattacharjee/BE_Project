@@ -1,0 +1,11 @@
+##gff-version 3
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	47	54	45.8	-	.	Name=MA0011.1_dm6_ct_UserTrack_3545_15-;Alias=br(var.2);ID=MA0011.1-br(var.2)-1-dm6_ct_UserTrack_3545_15;pvalue=2.65e-05;qvalue= 0.026;sequence=TACTATTT;
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	344	353	49.5	-	.	Name=MA0015.1_dm6_ct_UserTrack_3545_15-;Alias=Cf2;ID=MA0015.1-Cf2-1-dm6_ct_UserTrack_3545_15;pvalue=1.13e-05;qvalue= 0.0109;sequence=GTATATATAG;
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	344	353	45.5	+	.	Name=MA0015.1_dm6_ct_UserTrack_3545_15+;Alias=Cf2;ID=MA0015.1-Cf2-2-dm6_ct_UserTrack_3545_15;pvalue=2.81e-05;qvalue= 0.0137;sequence=CTATATATAC;
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	416	425	47.8	+	.	Name=MA0447.1_dm6_ct_UserTrack_3545_15+;Alias=gt;ID=MA0447.1-gt-1-dm6_ct_UserTrack_3545_15;pvalue=1.66e-05;qvalue= 0.0081;sequence=GTTACGCAAT;
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	416	425	47.8	-	.	Name=MA0447.1_dm6_ct_UserTrack_3545_15-;Alias=gt;ID=MA0447.1-gt-2-dm6_ct_UserTrack_3545_15;pvalue=1.66e-05;qvalue= 0.0081;sequence=ATTGCGTAAC;
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	195	204	42.8	+	.	Name=MA0449.1_dm6_ct_UserTrack_3545_15+;Alias=h;ID=MA0449.1-h-1-dm6_ct_UserTrack_3545_15;pvalue=5.2e-05;qvalue= 0.0237;sequence=GGCATGTGGC;
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	195	204	42.8	-	.	Name=MA0449.1_dm6_ct_UserTrack_3545_15-;Alias=h;ID=MA0449.1-h-2-dm6_ct_UserTrack_3545_15;pvalue=5.2e-05;qvalue= 0.0237;sequence=GCCACATGCC;
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	461	475	49.3	-	.	Name=MA0535.1_dm6_ct_UserTrack_3545_15-;Alias=Mad;ID=MA0535.1-Mad-1-dm6_ct_UserTrack_3545_15;pvalue=1.18e-05;qvalue= 0.0111;sequence=GCGGCGTCGGCGGCA;
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	214	228	43.3	+	.	Name=MA0535.1_dm6_ct_UserTrack_3545_15+;Alias=Mad;ID=MA0535.1-Mad-2-dm6_ct_UserTrack_3545_15;pvalue=4.69e-05;qvalue= 0.0219;sequence=TCCGCGCCGCTGCAG;
+dm6_ct_UserTrack_3545_15	fimo	nucleotide_motif	209	223	40.7	-	.	Name=MA0535.1_dm6_ct_UserTrack_3545_15-;Alias=Mad;ID=MA0535.1-Mad-3-dm6_ct_UserTrack_3545_15;pvalue=8.48e-05;qvalue= 0.0265;sequence=GCGGCGCGGAAAACC;

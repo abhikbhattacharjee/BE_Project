@@ -1,0 +1,11 @@
+##gff-version 3
+dm6_ct_UserTrack_3545_5	fimo	nucleotide_motif	181	189	41.3	+	.	Name=MA11111.1_dm6_ct_UserTrack_3545_5+;Alias=mes2;ID=MA11111.1-mes2-1-dm6_ct_UserTrack_3545_5;pvalue=7.33e-05;qvalue= 0.032;sequence=TGGCAAAAA;
+dm6_ct_UserTrack_3545_5	fimo	nucleotide_motif	490	498	40.2	-	.	Name=MA11111.1_dm6_ct_UserTrack_3545_5-;Alias=mes2;ID=MA11111.1-mes2-2-dm6_ct_UserTrack_3545_5;pvalue=9.43e-05;qvalue= 0.032;sequence=TTGCCAAAG;
+dm6_ct_UserTrack_3545_5	fimo	nucleotide_motif	198	206	40.1	+	.	Name=MA11111.1_dm6_ct_UserTrack_3545_5+;Alias=mes2;ID=MA11111.1-mes2-3-dm6_ct_UserTrack_3545_5;pvalue=9.84e-05;qvalue= 0.032;sequence=TGGCCAATA;
+dm6_ct_UserTrack_3545_5	fimo	nucleotide_motif	159	168	41.6	+	.	Name=MA0049.1_dm6_ct_UserTrack_3545_5+;Alias=hb;ID=MA0049.1-hb-1-dm6_ct_UserTrack_3545_5;pvalue=6.94e-05;qvalue= 0.0634;sequence=GCACAAAAAT;
+dm6_ct_UserTrack_3545_5	fimo	nucleotide_motif	279	288	40.9	+	.	Name=MA0205.1_dm6_ct_UserTrack_3545_5+;Alias=Trl;ID=MA0205.1-Trl-1-dm6_ct_UserTrack_3545_5;pvalue=8.05e-05;qvalue= 0.0773;sequence=GCGCTCTCTT;
+dm6_ct_UserTrack_3545_5	fimo	nucleotide_motif	247	258	46.4	-	.	Name=MA0243.1_dm6_ct_UserTrack_3545_5-;Alias=sd;ID=MA0243.1-sd-1-dm6_ct_UserTrack_3545_5;pvalue=2.28e-05;qvalue= 0.021;sequence=GTCATTCATCGT;
+dm6_ct_UserTrack_3545_5	fimo	nucleotide_motif	381	390	40.2	+	.	Name=MA0459.1_dm6_ct_UserTrack_3545_5+;Alias=tll;ID=MA0459.1-tll-1-dm6_ct_UserTrack_3545_5;pvalue=9.44e-05;qvalue= 0.09;sequence=TGAAGTCAAG;
+dm6_ct_UserTrack_3545_5	fimo	nucleotide_motif	413	426	48.4	+	.	Name=MA0452.2_dm6_ct_UserTrack_3545_5+;Alias=Kr;ID=MA0452.2-Kr-1-dm6_ct_UserTrack_3545_5;pvalue=1.44e-05;qvalue= 0.013;sequence=ATAAACCCTTTTGG;
+dm6_ct_UserTrack_3545_5	fimo	nucleotide_motif	6	26	47.3	+	.	Name=MA0533.1_dm6_ct_UserTrack_3545_5+;Alias=su(Hw);ID=MA0533.1-su(Hw)-1-dm6_ct_UserTrack_3545_5;pvalue=1.87e-05;qvalue= 0.0176;sequence=GTTTAAAAGTATGCCAACAGA;
+dm6_ct_UserTrack_3545_5	fimo	nucleotide_motif	279	292	45.6	+	.	Name=MA0237.2_dm6_ct_UserTrack_3545_5+;Alias=pan;ID=MA0237.2-pan-1-dm6_ct_UserTrack_3545_5;pvalue=2.74e-05;qvalue= 0.0257;sequence=GCGCTCTCTTGGAT;

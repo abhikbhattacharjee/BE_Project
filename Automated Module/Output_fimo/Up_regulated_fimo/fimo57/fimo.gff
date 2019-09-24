@@ -1,0 +1,11 @@
+##gff-version 3
+dm6_ct_UserTrack_3545_16	fimo	nucleotide_motif	139	148	41.5	+	.	Name=MA0015.1_dm6_ct_UserTrack_3545_16+;Alias=Cf2;ID=MA0015.1-Cf2-1-dm6_ct_UserTrack_3545_16;pvalue=6.99e-05;qvalue= 0.0755;sequence=CTATATGTAA;
+dm6_ct_UserTrack_3545_16	fimo	nucleotide_motif	124	133	 45	+	.	Name=MA0049.1_dm6_ct_UserTrack_3545_16+;Alias=hb;ID=MA0049.1-hb-1-dm6_ct_UserTrack_3545_16;pvalue=3.12e-05;qvalue= 0.0334;sequence=GGATAAAAAA;
+dm6_ct_UserTrack_3545_16	fimo	nucleotide_motif	5	16	43.7	+	.	Name=MA0243.1_dm6_ct_UserTrack_3545_16+;Alias=sd;ID=MA0243.1-sd-1-dm6_ct_UserTrack_3545_16;pvalue=4.21e-05;qvalue= 0.0452;sequence=GACATTTGTAAC;
+dm6_ct_UserTrack_3545_16	fimo	nucleotide_motif	83	90	44.9	-	.	Name=MA0094.2_dm6_ct_UserTrack_3545_16-;Alias=Ubx;ID=MA0094.2-Ubx-1-dm6_ct_UserTrack_3545_16;pvalue=3.23e-05;qvalue= 0.0318;sequence=TTTAATTA;
+dm6_ct_UserTrack_3545_16	fimo	nucleotide_motif	81	88	42.3	+	.	Name=MA0094.2_dm6_ct_UserTrack_3545_16+;Alias=Ubx;ID=MA0094.2-Ubx-2-dm6_ct_UserTrack_3545_16;pvalue=5.88e-05;qvalue= 0.0318;sequence=CTTAATTA;
+dm6_ct_UserTrack_3545_16	fimo	nucleotide_motif	98	108	42.3	-	.	Name=MA0445.1_dm6_ct_UserTrack_3545_16-;Alias=D;ID=MA0445.1-D-1-dm6_ct_UserTrack_3545_16;pvalue=5.81e-05;qvalue= 0.0626;sequence=GCCATTGTGCA;
+dm6_ct_UserTrack_3545_16	fimo	nucleotide_motif	126	146	41.2	+	.	Name=MA0533.1_dm6_ct_UserTrack_3545_16+;Alias=su(Hw);ID=MA0533.1-su(Hw)-1-dm6_ct_UserTrack_3545_16;pvalue=7.59e-05;qvalue= 0.0799;sequence=ATAAAAAAATATGCTATATGT;
+dm6_ct_UserTrack_3545_16	fimo	nucleotide_motif	244	258	61.3	+	.	Name=MA0535.1_dm6_ct_UserTrack_3545_16+;Alias=Mad;ID=MA0535.1-Mad-1-dm6_ct_UserTrack_3545_16;pvalue=7.35e-07;qvalue= 0.00073;sequence=CAGTCGCCGGCGGCG;
+dm6_ct_UserTrack_3545_16	fimo	nucleotide_motif	396	405	60.4	+	.	Name=MA0247.2_dm6_ct_UserTrack_3545_16+;Alias=tin;ID=MA0247.2-tin-1-dm6_ct_UserTrack_3545_16;pvalue=9.09e-07;qvalue= 0.000974;sequence=TCTCAAGTGG;
+dm6_ct_UserTrack_3545_16	fimo	nucleotide_motif	363	372	46.1	-	.	Name=MA0247.2_dm6_ct_UserTrack_3545_16-;Alias=tin;ID=MA0247.2-tin-2-dm6_ct_UserTrack_3545_16;pvalue=2.43e-05;qvalue= 0.013;sequence=AGTCAAGTGC;

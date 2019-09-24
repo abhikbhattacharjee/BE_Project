@@ -1,0 +1,2 @@
+##gff-version 3
+dm6_ct_UserTrack_3545_5	fimo	nucleotide_motif	245	259	40.2	+	.	Name=MA0535.1_dm6_ct_UserTrack_3545_5+;Alias=Mad;ID=MA0535.1-Mad-1-dm6_ct_UserTrack_3545_5;pvalue=9.49e-05;qvalue= 0.0906;sequence=GAGGCGCGGCAGAGA;

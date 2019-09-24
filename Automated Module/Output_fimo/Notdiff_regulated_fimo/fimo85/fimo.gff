@@ -1,0 +1,11 @@
+##gff-version 3
+dm6_ct_UserTrack_3545_33	fimo	nucleotide_motif	222	235	42.6	-	.	Name=MA0010.1_dm6_ct_UserTrack_3545_33-;Alias=br;ID=MA0010.1-br-1-dm6_ct_UserTrack_3545_33;pvalue=5.5e-05;qvalue= 0.0917;sequence=GCAATAAGCAAAAT;
+dm6_ct_UserTrack_3545_33	fimo	nucleotide_motif	202	212	42.7	-	.	Name=MA0012.1_dm6_ct_UserTrack_3545_33-;Alias=br(var.3);ID=MA0012.1-br(var.3)-1-dm6_ct_UserTrack_3545_33;pvalue=5.36e-05;qvalue= 0.0897;sequence=AAAACAAAATG;
+dm6_ct_UserTrack_3545_33	fimo	nucleotide_motif	463	474	42.1	-	.	Name=MA0022.1_dm6_ct_UserTrack_3545_33-;Alias=dl;ID=MA0022.1-dl-1-dm6_ct_UserTrack_3545_33;pvalue=6.16e-05;qvalue= 0.0996;sequence=CGCTTTTTCCCC;
+dm6_ct_UserTrack_3545_33	fimo	nucleotide_motif	448	457	46.1	+	.	Name=MA0049.1_dm6_ct_UserTrack_3545_33+;Alias=hb;ID=MA0049.1-hb-1-dm6_ct_UserTrack_3545_33;pvalue=2.42e-05;qvalue= 0.0387;sequence=GAACAAAAAA;
+dm6_ct_UserTrack_3545_33	fimo	nucleotide_motif	554	569	45.2	+	.	Name=MA0085.1_dm6_ct_UserTrack_3545_33+;Alias=Su(H);ID=MA0085.1-Su(H)-1-dm6_ct_UserTrack_3545_33;pvalue=3.01e-05;qvalue= 0.026;sequence=CGGTGGGAAACCAGTT;
+dm6_ct_UserTrack_3545_33	fimo	nucleotide_motif	374	389	 45	-	.	Name=MA0085.1_dm6_ct_UserTrack_3545_33-;Alias=Su(H);ID=MA0085.1-Su(H)-2-dm6_ct_UserTrack_3545_33;pvalue=3.14e-05;qvalue= 0.026;sequence=ATGTGGGAAAACGTTG;
+dm6_ct_UserTrack_3545_33	fimo	nucleotide_motif	159	166	40.8	+	.	Name=MA0213.1_dm6_ct_UserTrack_3545_33+;Alias=brk;ID=MA0213.1-brk-1-dm6_ct_UserTrack_3545_33;pvalue=8.37e-05;qvalue= 0.137;sequence=ATGGCGCC;
+dm6_ct_UserTrack_3545_33	fimo	nucleotide_motif	364	373	40.6	+	.	Name=MA0443.1_dm6_ct_UserTrack_3545_33+;Alias=btd;ID=MA0443.1-btd-1-dm6_ct_UserTrack_3545_33;pvalue=8.72e-05;qvalue= 0.142;sequence=TGTGGGCGTT;
+dm6_ct_UserTrack_3545_33	fimo	nucleotide_motif	676	685	42.5	-	.	Name=MA0459.1_dm6_ct_UserTrack_3545_33-;Alias=tll;ID=MA0459.1-tll-1-dm6_ct_UserTrack_3545_33;pvalue=5.6e-05;qvalue= 0.0934;sequence=AAAAGCCAAG;
+dm6_ct_UserTrack_3545_33	fimo	nucleotide_motif	152	166	51.3	+	.	Name=MA0531.1_dm6_ct_UserTrack_3545_33+;Alias=CTCF;ID=MA0531.1-CTCF-1-dm6_ct_UserTrack_3545_33;pvalue=7.34e-06;qvalue= 0.0121;sequence=CTGCATGATGGCGCC;
