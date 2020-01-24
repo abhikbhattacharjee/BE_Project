@@ -29,5 +29,10 @@ for i in range(len(list1)):
     
 writer.save()
 
-plt.pie(sheet_counts["Counts"], autopct='%1.1f%%', labels=sheet_counts["Annotation"])
+def counts(val):
+    percent = np.round(val/100.*sheet_counts["Counts"].sum(),0)
+    return str(percent)+'\n'+str(np.round(val,1))+'%'  
+
+plt.pie(sheet_counts["Counts"], autopct=counts, labels=sheet_counts["Annotation"])
+plt.rcParams["figure.figsize"] = (10,10)
 plt.show()
