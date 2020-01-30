@@ -82,6 +82,4 @@ for i in df.index[2:,]:
         nextline = next(itr)        
     outfile3.write(ender+"\n\n")
     
-#outfile1.close()
-#outfile2.close()
 outfile3.close()
